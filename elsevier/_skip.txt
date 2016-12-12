@@ -16,9 +16,27 @@ aasri-procedia
 journal-of-adolescent-health
 materials-discovery-today
 pain
-cell
 journal-of-investigative-dermatology
 medical-journal-of-australia
 
 # Moved to Springer
 journal-of-ultrasound
+
+#Cell Press journals
+biophysical-journal
+cancer-cell
+cell
+cell-host-and-microbe
+cell-metabolism
+cell-reports
+cell-stem-cell
+chemistry-and-biology
+current-biology
+developmental-cell
+immunity
+molecular-cell
+molecular-plant
+neuron
+stem-cell-reports
+structure
+the-american-journal-of-human-genetics
