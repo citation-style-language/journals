@@ -1,6 +1,5 @@
 # List of styles that exists in the repository.
 # Will not be changed at the moment.
-the-american-journal-of-human-genetics
 canadian-journal-of-ophthalmology-journal-canadien-dophtalmologie
 soil-biology-and-biochemistry
 heart-and-lung-the-journal-of-acute-and-critical-care
@@ -26,17 +25,19 @@ journal-of-ultrasound
 biophysical-journal
 cancer-cell
 cell
+cell-chemical-biology
 cell-host-and-microbe
 cell-metabolism
 cell-reports
 cell-stem-cell
-chemistry-and-biology
 current-biology
 developmental-cell
 immunity
 molecular-cell
-molecular-plant
 neuron
 stem-cell-reports
 structure
+#Cell but different style
 the-american-journal-of-human-genetics
+#Cell, different style, not yet done
+molecular-plant
