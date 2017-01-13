@@ -5,7 +5,7 @@
     <title>#TITLE#</title>
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
-    <link href="http://www.zotero.org/styles/#INDEPENDENT#" rel="independent-parent"/>
+    <link href="http://www.zotero.org/styles/#PARENT#" rel="independent-parent"/>
     <link href="#DOCUMENTATION#" rel="documentation"/>
     <category citation-format="#FORMAT#"/>
     <category field="#FIELD1#"/>
