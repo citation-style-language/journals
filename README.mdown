@@ -1,6 +1,3 @@
-#### Notice
-This repository was created on 2016-03-10 as a dedicated home for the journal metadata previously stored in the https://github.com/citation-style-language/utilities/ repository (in the now-removed "generate_dependent_styles" subdirectory).
-
 # Journals
 
 [![Build Status](https://travis-ci.org/citation-style-language/journals.svg?branch=master)](https://travis-ci.org/citation-style-language/journals)
@@ -15,6 +12,9 @@ Whereas independent styles contain a full description of a citation format, depe
 This `journals` repository holds a collection of journal metadata for publishers that have standardized their use of citation formats.
 At a minimum, this metadata should include the journal titles and ISSNs (print and online).
 Through a script, we can quickly generate dependent CSL styles from this metadata.
+
+### Repository history
+This repository was created on 2016-03-10 as a dedicated home for the journal metadata previously stored in the https://github.com/citation-style-language/utilities/ repository (in the now-removed "generate_dependent_styles" subdirectory).
 
 ## Generating dependent styles
 
