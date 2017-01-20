@@ -1,44 +1,59 @@
-TITLE	PARENT	EISSN	FORMAT
-Frontiers in Aging Neuroscience	frontiers	1663-4365	author-date
-Frontiers in Behavioral Neuroscience	frontiers	1662-5153	author-date
-Frontiers in Bioengineering and Biotechnology	frontiers	2296-4185	author-date
-Frontiers in Cell and Developmental Biology	frontiers	2296-634X	author-date
-Frontiers in Cellular and Infection Microbiology	frontiers	2235-2988	author-date
-Frontiers in Cellular Neuroscience	frontiers	1662-5102	author-date
-Frontiers in Chemistry	frontiers	2296-2646	author-date
-Frontiers in Computational Neuroscience	frontiers	1662-5188	author-date
-Frontiers in Earth Science	frontiers	2296-6463	author-date
-Frontiers in Ecology and Evolution	frontiers	2296-701X	author-date
-Frontiers in Endocrinology	frontiers-medical-journals	1664-2392	numeric
-Frontiers in Energy Research	frontiers	2296-598X	author-date
-Frontiers in Environmental Science	frontiers	2296-665X	author-date
-Frontiers in Evolutionary Neuroscience	frontiers	1663-070X	author-date
-Frontiers in Genetics	frontiers	1664-8021	author-date
-Frontiers in Human Neuroscience	frontiers	1662-5161	author-date
-Frontiers in Immunology	frontiers-medical-journals	1664-3224	numeric
-Frontiers in Integrative Neuroscience	frontiers	1662-5145	author-date
-Frontiers in Marine Science	frontiers	2296-7745	author-date
-Frontiers in Materials	frontiers	2296-8016	author-date
-Frontiers in Microbiology	frontiers	1664-302X	author-date
-Frontiers in Molecular Biosciences	frontiers	2296-889X	author-date
-Frontiers in Molecular Neuroscience	frontiers	1662-5099	author-date
-Frontiers in Neural Circuits	frontiers	1662-5110	author-date
-Frontiers in Neuroanatomy	frontiers	1662-5129	author-date
-Frontiers in Neuroenergetics	frontiers	1662-6427	author-date
-Frontiers in Neuroengineering	frontiers	1662-6443	author-date
-Frontiers in Neuroinformatics	frontiers	1662-5196	author-date
-Frontiers in Neurology	frontiers-medical-journals	1664-2295	numeric
-Frontiers in Neurorobotics	frontiers	1662-5218	author-date
-Frontiers in Neuroscience	frontiers	1662-453X	author-date
-Frontiers in Nutrition	frontiers-medical-journals	2296-861X	numeric
-Frontiers in Oncology	frontiers-medical-journals	2234-943X	numeric
-Frontiers in Physiology	frontiers	1664-042X	author-date
-Frontiers in Plant Science	frontiers	1664-462X	author-date
-Frontiers in Psychiatry	frontiers-medical-journals	1664-0640	numeric
-Frontiers in Psychology	frontiers	1664-1078	author-date
-Frontiers in Public Health	frontiers-medical-journals	2296-2565	numeric
-Frontiers in Pediatrics	frontiers-medical-journals	2296-2360	numeric
-Frontiers in Pharmacology	frontiers	1663-9812	author-date
-Frontiers in Surgery	frontiers-medical-journals	2296-875X	numeric
-Frontiers in Synaptic Neuroscience	frontiers	1663-3563	author-date
-Frontiers in Systems Neuroscience	frontiers	1662-5137	author-date
+TITLE	PARENT	EISSN	FORMAT	CATEGORY
+Frontiers in Aging Neuroscience	frontiers	1663-4365	author-date	medicine
+Frontiers in Applied Mathematics and Statistics	frontiers-medical-journals	2297-4687	numeric	math
+Frontiers in Astronomy and Space Sciences	frontiers	2296-987X	author-date	astronomy
+Frontiers in Behavioral Neuroscience	frontiers	1662-5153	author-date	sociology
+Frontiers in Bioengineering and Biotechnology	frontiers	2296-4185	author-date	biology
+Frontiers in Built Environment	frontiers	2297-3362	author-date	science
+Frontiers in Cardiovascular Medicine	frontiers-medical-journals	2297-055X	numeric	medicine
+Frontiers in Cell and Developmental Biology	frontiers	2296-634X	author-date	biology
+Frontiers in Cellular and Infection Microbiology	frontiers	2235-2988	author-date	biology
+Frontiers in Cellular Neuroscience	frontiers	1662-5102	author-date	biology
+Frontiers in Chemistry	frontiers	2296-2646	author-date	chemistry
+Frontiers in Communication	frontiers	2297-900X	author-date	communications
+Frontiers in Computational Neuroscience	frontiers	1662-5188	author-date	biology
+Frontiers in Digital Humanities	frontiers	2297-2668	author-date	humanities
+Frontiers in Earth Science	frontiers	2296-6463	author-date	geology
+Frontiers in Ecology and Evolution	frontiers	2296-701X	author-date	science
+Frontiers in Education	frontiers	2504-284X	author-date	humanities
+Frontiers in Endocrinology	frontiers-medical-journals	1664-2392	numeric	medicine
+Frontiers in Energy Research	frontiers	2296-598X	author-date	engineering
+Frontiers in Environmental Science	frontiers	2296-665X	author-date	science
+Frontiers in Evolutionary Neuroscience	frontiers	1663-070X	author-date	biology
+Frontiers in Genetics	frontiers	1664-8021	author-date	biology
+Frontiers in Human Neuroscience	frontiers	1662-5161	author-date	biology
+Frontiers in ICT	frontiers	2297-198X	author-date	communications
+Frontiers in Immunology	frontiers-medical-journals	1664-3224	numeric	biology
+Frontiers in Integrative Neuroscience	frontiers	1662-5145	author-date	biology
+Frontiers in Marine Science	frontiers	2296-7745	author-date	biology
+Frontiers in Materials	frontiers	2296-8016	author-date	chemistry
+Frontiers in Mechanical Engineering	frontiers	2297-3079	author-date	engineering
+Frontiers in Medicine	frontiers-medical-journals	2296-858X	numeric	medicine
+Frontiers in Microbiology	frontiers	1664-302X	author-date	biology
+Frontiers in Molecular Biosciences	frontiers	2296-889X	author-date	biology
+Frontiers in Molecular Neuroscience	frontiers	1662-5099	author-date	biology
+Frontiers in Neural Circuits	frontiers	1662-5110	author-date	biology
+Frontiers in Neuroanatomy	frontiers	1662-5129	author-date	biology
+Frontiers in Neuroenergetics	frontiers	1662-6427	author-date	biology
+Frontiers in Neuroengineering	frontiers	1662-6443	author-date	biology
+Frontiers in Neuroinformatics	frontiers	1662-5196	author-date	biology
+Frontiers in Neurology	frontiers-medical-journals	1664-2295	numeric	biology
+Frontiers in Neurorobotics	frontiers	1662-5218	author-date	science
+Frontiers in Neuroscience	frontiers	1662-453X	author-date	biology
+Frontiers in Nutrition	frontiers-medical-journals	2296-861X	numeric	medicine
+Frontiers in Oncology	frontiers-medical-journals	2234-943X	numeric	medicine
+Frontiers in Pediatrics	frontiers-medical-journals	2296-2360	numeric	medicine
+Frontiers in Pharmacology	frontiers	1663-9812	author-date	medicine
+Frontiers in Physiology	frontiers	1664-042X	author-date	medicine
+Frontiers in Plant Science	frontiers	1664-462X	author-date	botany
+Frontiers in Psychiatry	frontiers-medical-journals	1664-0640	numeric	psychology
+Frontiers in Psychology	frontiers	1664-1078	author-date	psychology
+Frontiers in Public Health	frontiers-medical-journals	2296-2565	numeric	medicine
+Frontiers in Research Metrics and Analytics	frontiers-medical-journals	2504-0537	numeric	science
+Frontiers in Robotics and AI	frontiers	2296-9144	author-date	engineering
+Frontiers in Sociology	frontiers	2297-7775	author-date	sociology
+Frontiers in Surgery	frontiers-medical-journals	2296-875X	numeric	medicine
+Frontiers in Synaptic Neuroscience	frontiers	1663-3563	author-date	biology
+Frontiers in Systems Neuroscience	frontiers	1662-5137	author-date	biology
+Frontiers in Veterinary Science	frontiers-medical-journals	2297-1769	numeric	medicine
+Frontiers for Young Minds	frontiers-in-physics	2296-6846	numeric	science
