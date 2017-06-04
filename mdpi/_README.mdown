@@ -1,3 +1,8 @@
+## 2017-06-01
+
+Updated metadata from http://www.mdpi.com/about/journals.
+Updated mdpi master style based on: http://www.mdpi.com/authors/references
+
 ## 2014-05-15
 
 Updated metadata from http://www.mdpi.com/about/journals.
