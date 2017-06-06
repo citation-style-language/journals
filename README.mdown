@@ -64,7 +64,7 @@ When preparing `_journals.tab`, keep the following in mind:
 - ampersands are automatically escaped for the "TITLE", "TITLESHORT", and "DOCUMENTATION" fields.
 - not every journal will have a value for each metadata field.
   For example, online-only journals won't have a print ISSN.
-  In this case, just leave the field empty, or fill it with a single character, such as "x".
+  In this case, just leave the field empty, or fill it with one of the accepted placeholder characters, "x", "X", or a space.
 
 ##### \_template.csl
 `_template.csl` is the template for the dependent CSL styles.
@@ -95,7 +95,7 @@ In contrast, template placeholders should be used for metadata that differs betw
 These placeholders, in all-caps and enclosed in hashes (e.g., `#TITLE#`), are replaced by journal metadata during style generation.
 Except for the automatically generated "IDENTIFIER" and "XML-COMMENT" metadata fields, all placeholders must therefore match metadata field names from `_journals.tab`.
 
-If the metadata field for a journal is empty or contains only a single character, the entire line containing the matching placeholder is deleted in the generated style.
+If the metadata field for a journal is empty or contains only a placeholder character ("x", "X", or space are accepted), the entire line containing the matching placeholder is deleted in the generated style.
 
 The "#IDENTIFIER#" placeholder must be used to generate the style ID and "self" link, and generated styles are automatically named after the "IDENTIFIER" field.
 The value of the "IDENTIFIER" field is derived from "TITLE", by, among others, removing diacritics and punctuation, and replacing spaces by hyphens.

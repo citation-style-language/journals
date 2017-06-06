@@ -1,49 +1,49 @@
 Title	eISSN	ISSN	Field	Field2
-Advances in Geosciences (ADGEO)	1680-7359	1680-7340	geology	-
-Advances in Radio Science (ARS)	1684-9973	1684-9965	physics	-
-Advances in Science and Research (ASR)	1992-0628	1992-0636	science	-
-Annales Geophysicae (ANGEO)	1432-0576	0992-7689	geology	-
-ASTRA Proceedings (AP)	X	X	astronomy	-
+Advances in Geosciences (ADGEO)	1680-7359	1680-7340	geology	x
+Advances in Radio Science (ARS)	1684-9973	1684-9965	physics	x
+Advances in Science and Research (ASR)	1992-0628	1992-0636	science	x
+Annales Geophysicae (ANGEO)	1432-0576	0992-7689	geology	x
+ASTRA Proceedings (AP)	X	X	astronomy	x
 Atmospheric Chemistry and Physics (ACP)	1680-7324	1680-7316	chemistry	physics
 Atmospheric Chemistry and Physics Discussions (ACPD)	1680-7375	X	chemistry	physics
-Atmospheric Measurement Techniques (AMT)	1867-8548	1867-1381	science	-
-Atmospheric Measurement Techniques Discussions (AMTD)	1867-8610	X	science	-
+Atmospheric Measurement Techniques (AMT)	1867-8548	1867-1381	science	x
+Atmospheric Measurement Techniques Discussions (AMTD)	1867-8610	X	science	x
 Biogeosciences (BG)	1726-4189	1726-4170	biology	geology
 Biogeosciences Discussions (BGD)	1810-6285	X	biology	geology
-Climate of the Past (CP)	1814-9332	1814-9324	science	-
-Climate of the Past Discussions (CPD)	1814-9359	X	science	-
-Drinking Water Engineering and Science (DWES)	1996-9465	1996-9457	science	-
-Drinking Water Engineering and Science Discussions (DWESD)	1996-9481	X	science	-
-Earth Surface Dynamics (ESurf)	2196-632X	2196-6311	science	-
-Earth Surface Dynamics Discussions (ESurfD)	2196-6338	X	science	-
-Earth System Science Data (ESSD)	1866-3516	1866-3508	science	-
-Earth System Science Data Discussions (ESSDD)	1866-3591	X	science	-
-Earth System Dynamics (ESD)	2190-4987	2190-4979	science	-
-Earth System Dynamics Discussions (ESDD)	2190-4995	X	science	-
+Climate of the Past (CP)	1814-9332	1814-9324	science	x
+Climate of the Past Discussions (CPD)	1814-9359	X	science	x
+Drinking Water Engineering and Science (DWES)	1996-9465	1996-9457	science	x
+Drinking Water Engineering and Science Discussions (DWESD)	1996-9481	X	science	x
+Earth Surface Dynamics (ESurf)	2196-632X	2196-6311	science	x
+Earth Surface Dynamics Discussions (ESurfD)	2196-6338	X	science	x
+Earth System Science Data (ESSD)	1866-3516	1866-3508	science	x
+Earth System Science Data Discussions (ESSDD)	1866-3591	X	science	x
+Earth System Dynamics (ESD)	2190-4987	2190-4979	science	x
+Earth System Dynamics Discussions (ESDD)	2190-4995	X	science	x
 Fossil Record (FR)	X	X	geology	biology
-Geographica Helvetica (GH)	2194-8798	0016-7312	geography	-
-Geoscientific Instrumentation, Methods and Data Systems (GI)	2193-0864	2193-0856	geology	-
-Geoscientific Instrumentation, Methods and Data Systems Discussions (GID)	2193-0872	X	geology	-
-Geoscientific Model Development (GMD)	1991-9603	1991-959X	geology	-
-Geoscientific Model Development Discussions (GMDD)	1991-962X	X	geology	-
-History of Geo- and Space Sciences (HGSS)	2190-5029	2190-5010	geology	-
-Hydrology and Earth System Sciences (HESS)	1607-7938	1027-5606	geology	-
-Hydrology and Earth System Sciences Discussions (HESSD)	1812-2116	X	geology	-
-Journal of Sensors and Sensor Systems (JSSS)	2194-878X	2194-8771	engineering	-
-Mechanical Sciences (MS)	2191-916X	2191-9151	physics	-
-Natural Hazards and Earth System Sciences (NHESS)	1684-9981	1561-8633	geology	-
-Natural Hazards and Earth System Sciences Discussions (NHESSD)	2195-9269	X	geology	-
-Nonlinear Processes in Geophysics (NPG)	1607-7946	1023-5809	geology	-
-Nonlinear Processes in Geophysics Discussions (NPGD)	2198-5634	X	geology	-
-Ocean Science (OS)	1812-0792	1812-0784	geology	-
-Ocean Science Discussions (OSD)	1812-0822	X	geology	-
-Primate Biology (PB)	X	X	biology	-
-Scientific Drilling (SD)	1816-3459	1816-8957	geology	-
-SOIL	X	X	biology	-
-SOIL Discussions (SOILD)	X	X	biology	-
-Solid Earth (SE)	1869-9529	1869-9510	geology	-
-Solid Earth Discussions (SED)	1869-9537	X	geology	-
-Stephan Mueller Special Publication Series (SMSPS)	1868-4564	1868-4556	science	-
-The Cryosphere (TC)	1994-0424	1994-0416	geology	-
-The Cryosphere Discussions (TCD)	1994-0440	X	geology	-
-Web Ecology	1399-1183	2193-3081	science	-
+Geographica Helvetica (GH)	2194-8798	0016-7312	geography	x
+Geoscientific Instrumentation, Methods and Data Systems (GI)	2193-0864	2193-0856	geology	x
+Geoscientific Instrumentation, Methods and Data Systems Discussions (GID)	2193-0872	X	geology	x
+Geoscientific Model Development (GMD)	1991-9603	1991-959X	geology	x
+Geoscientific Model Development Discussions (GMDD)	1991-962X	X	geology	x
+History of Geo- and Space Sciences (HGSS)	2190-5029	2190-5010	geology	x
+Hydrology and Earth System Sciences (HESS)	1607-7938	1027-5606	geology	x
+Hydrology and Earth System Sciences Discussions (HESSD)	1812-2116	X	geology	x
+Journal of Sensors and Sensor Systems (JSSS)	2194-878X	2194-8771	engineering	x
+Mechanical Sciences (MS)	2191-916X	2191-9151	physics	x
+Natural Hazards and Earth System Sciences (NHESS)	1684-9981	1561-8633	geology	x
+Natural Hazards and Earth System Sciences Discussions (NHESSD)	2195-9269	X	geology	x
+Nonlinear Processes in Geophysics (NPG)	1607-7946	1023-5809	geology	x
+Nonlinear Processes in Geophysics Discussions (NPGD)	2198-5634	X	geology	x
+Ocean Science (OS)	1812-0792	1812-0784	geology	x
+Ocean Science Discussions (OSD)	1812-0822	X	geology	x
+Primate Biology (PB)	X	X	biology	x
+Scientific Drilling (SD)	1816-3459	1816-8957	geology	x
+SOIL	X	X	biology	x
+SOIL Discussions (SOILD)	X	X	biology	x
+Solid Earth (SE)	1869-9529	1869-9510	geology	x
+Solid Earth Discussions (SED)	1869-9537	X	geology	x
+Stephan Mueller Special Publication Series (SMSPS)	1868-4564	1868-4556	science	x
+The Cryosphere (TC)	1994-0424	1994-0416	geology	x
+The Cryosphere Discussions (TCD)	1994-0440	X	geology	x
+Web Ecology	1399-1183	2193-3081	science	x

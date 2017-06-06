@@ -262,7 +262,7 @@ data_subdir_paths.each do |data_subdir|
     mandatory_fields = ['TITLE']
     fields_all_good = true
     mandatory_fields.each do |field_name_to_check|
-      next if field_values.key? field_name_to_check and field_values[field_name_to_check].length > 1
+      next if field_values.key? field_name_to_check and field_values[field_name_to_check].length > 0
       fields_all_good = false
       $stderr.puts "WARNING: journal info is missing field '#{field_name_to_check}': (#{fields.join(', ')})"
     end
@@ -322,11 +322,15 @@ data_subdir_paths.each do |data_subdir|
     style_xml = "#{template}"
     field_values.each do |name, value|
       placeholder = "##{name}#"
-      if value.length > 1
+      
+      #delete accepted placeholders ("x", "X", space)
+      value.sub!(/^(x|\s)$/i, '')
+      
+      if value.length > 0
         # the value is valid --> replace the corresponding placeholder in the template
         style_xml.gsub! placeholder, value
       else
-        # the value is empty (or 1 character) --> remove the entire line from the template
+        # the value is empty --> remove the entire line from the template
         style_xml.gsub! /^.*#{placeholder}.*$\n/, ''
       end
     end
