@@ -20,6 +20,7 @@ def title_to_styleID(title)
 
   # punctuation to eliminate
   styleID.delete!('?')
+  styleID.delete!('!')
   styleID.delete!('’')
   styleID.delete!('(')
   styleID.delete!(')')
