@@ -5,10 +5,11 @@
     <title>#TITLE#</title>
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
-    <link href="https://www.zotero.org/styles/thieme-e-journals-vancouver" rel="independent-parent"/>
+    <link href="http://www.zotero.org/styles/thieme-e-journals-vancouver" rel="independent-parent"/>
     <link href="http://www.thieme.de/de/autorenlounge/fuer-zeitschriftenautoren-1789.htm" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="biology"/>
+    <category field="medicine"/>
     <issn>#ISSN#</issn>
     <eissn>#EISSN#</eissn>
     <updated>2017-06-21T12:00:00+00:00</updated>
