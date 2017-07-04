@@ -5,7 +5,7 @@
     <title>#TITLE#</title>
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
-    <link href="http://www.zotero.org/styles/#STYLE#" rel="independent-parent"/>
+    <link href="http://www.zotero.org/styles/#PARENT#" rel="independent-parent"/>
     <category citation-format="numeric"/>
     <category field="chemistry"/>
     <issn>#ISSN#</issn>
