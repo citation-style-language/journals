@@ -1,3 +1,7 @@
+## 07-09-2017
+
+Update ACM styles to new numeric format.
+
 ## 04-27-2014
 
 Update ACM styles from http://dl.acm.org/feeds/dl_contents.csv (see also http://dl.acm.org/faq_dl.cfm#41a ). Only selected those journals that are listed at http://www.acm.org/publications/word_style/word-style-toc/.
