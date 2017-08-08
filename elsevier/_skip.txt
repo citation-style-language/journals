@@ -1,6 +1,9 @@
 # Require custom style
 organic-geochemistry
 
+# 2017-08: https://github.com/citation-style-language/styles/pull/2870
+veterinary-microbiology
+
 # 2017-07: https://github.com/citation-style-language/styles/pull/2823
 resuscitation
 
