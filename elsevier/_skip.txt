@@ -24,6 +24,9 @@ resuscitation
 # 2017-08: https://github.com/citation-style-language/styles/pull/2870
 veterinary-microbiology
 
+# 2017-10: Renamed to Perspectives in Ecology and Conservation
+natureza-and-conservacao
+
 # List of styles that exists in the repository.
 # Will not be changed at the moment.
 accident-analysis-and-prevention
