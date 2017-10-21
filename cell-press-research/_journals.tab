@@ -1,15 +1,17 @@
-Title	TitleShort	ISSN	EISSN	Parent	Format	Field	Field2	Documentation
-Cancer Cell	x	1535-6108	1878-3686	cell	author-date	biology	medicine	http://www.cell.com/cancer-cell/authors
-Cell Chemical Biology	x	x	2451-9456	cell	author-date	biology	medicine	http://www.cell.com/cell-chemical-biology/authors
-Cell Host & Microbe	x	1931-3128	1934-6069	cell	author-date	biology	medicine	http://www.cell.com/cell-host-microbe/authors
-Cell Metabolism	x	1550-4131	1932-7420	cell	author-date	biology	medicine	http://www.cell.com/cell-metabolism/authors
-Cell Reports	x	2211-1247	x	cell	author-date	biology	medicine	http://www.cell.com/cell-reports/authors
-Cell Stem Cell	x	1934-5909	1875-9777	cell	author-date	biology	medicine	http://www.cell.com/cell-stem-cell/authors
-Chem	x	x	2451-9294	cell-numeric-superscript	numeric	biology	chemistry	http://www.cell.com/chem/authors
-Current Biology	x	0960-9822	1879-0445	cell-numeric	numeric	biology	medicine	http://www.cell.com/current-biology/authors
-Developmental Cell	x	1534-5807	1878-1551	cell	author-date	biology	medicine	http://www.cell.com/developmental-cell/authors
-Immunity	x	1074-7613	1097-4180	cell	author-date	biology	medicine	http://www.cell.com/immunity/authors
-Molecular Cell	x	1097-2765	1097-4164	cell	author-date	biology	medicine	http://www.cell.com/molecular-cell/authors
-Neuron	x	0896-6273	1097-4199	cell	author-date	biology	medicine	http://www.cell.com/neuron/authors
-Stem Cell Reports	x	x	2213-6711	cell	author-date	biology	medicine	http://www.cell.com/stem-cell-reports/authors
-Structure	x	0969-2126	1878-4186	cell	author-date	biology	medicine	http://www.cell.com/structure/authors
+Title	ISSN	EISSN	Parent	Format	Field	Field2	Documentation
+Cancer Cell	1535-6108	1878-3686	cell	author-date	biology	medicine	http://www.cell.com/cancer-cell/authors
+Cell Chemical Biology	x	2451-9456	cell	author-date	biology	medicine	http://www.cell.com/cell-chemical-biology/authors
+Cell Host & Microbe	1931-3128	1934-6069	cell	author-date	biology	medicine	http://www.cell.com/cell-host-microbe/authors
+Cell Metabolism	1550-4131	1932-7420	cell	author-date	biology	medicine	http://www.cell.com/cell-metabolism/authors
+Cell Reports	2211-1247	x	cell	author-date	biology	medicine	http://www.cell.com/cell-reports/authors
+Cell Stem Cell	1934-5909	1875-9777	cell	author-date	biology	medicine	http://www.cell.com/cell-stem-cell/authors
+Cell Systems	2405-4712	2405-4720	cell	author-date	biology	medicine	http://www.cell.com/cell-systems/authors
+Chem	x	2451-9294	cell-numeric-superscript	numeric	biology	chemistry	http://www.cell.com/chem/authors
+Current Biology	0960-9822	1879-0445	cell-numeric	numeric	biology	medicine	http://www.cell.com/current-biology/authors
+Developmental Cell	1534-5807	1878-1551	cell	author-date	biology	medicine	http://www.cell.com/developmental-cell/authors
+Immunity	1074-7613	1097-4180	cell	author-date	biology	medicine	http://www.cell.com/immunity/authors
+Joule	x	2542-4351	cell-numeric-superscript	numeric	engineering	chemistry	http://www.cell.com/joule/authors
+Molecular Cell	1097-2765	1097-4164	cell	author-date	biology	medicine	http://www.cell.com/molecular-cell/authors
+Neuron	0896-6273	1097-4199	cell	author-date	biology	medicine	http://www.cell.com/neuron/authors
+Stem Cell Reports	x	2213-6711	cell	author-date	biology	medicine	http://www.cell.com/stem-cell-reports/authors
+Structure	0969-2126	1878-4186	cell	author-date	biology	medicine	http://www.cell.com/structure/authors
