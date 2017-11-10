@@ -1,3 +1,8 @@
+## 2017-11-10
+
+Add Journal of Micropaleontology.
+
+
 ## 2014-05-10
 
 Updated metadata by hand.
