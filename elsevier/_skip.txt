@@ -1,5 +1,8 @@
 # Require custom style: 
 
+# 2018-08: https://github.com/citation-style-language/styles/pull/3654
+international-biodeterioration-and-biodegradation
+
 # 2017-02: https://github.com/citation-style-language/styles/pull/2532
 organic-geochemistry
 
