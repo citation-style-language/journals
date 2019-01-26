@@ -24,9 +24,6 @@ long-range-planning
 # 2017-07: https://github.com/citation-style-language/styles/pull/2792
 tetrahedron-letters
 
-# 2017-07: https://github.com/citation-style-language/styles/pull/2823
-resuscitation
-
 # 2017-08: https://github.com/citation-style-language/styles/pull/2870
 veterinary-microbiology
 
