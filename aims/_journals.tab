@@ -1,23 +1,23 @@
-"name"	"ISSN"	"documentation"
-"Mathematical Biosciences and Engineering"	"1551-0018"	"https://www.aimspress.com/news/295.html"
-"AIMS Agriculture and Food"	"2471-2086"	"https://www.aimspress.com/news/72.html"
-"AIMS Allergy and Immunology"	"2575-615X"	"https://www.aimspress.com/news/217.html"
-"AIMS Bioengineering"	"2375-1495"	"https://www.aimspress.com/news/81.html"
-"AIMS Biophysics"	"2377-9098"	"https://www.aimspress.com/news/89.html"
-"AIMS Electronics and Electrical Engineering"	"2578-1588"	"https://www.aimspress.com/news/243.html"
-"AIMS Energy"	"2333-8334"	"https://www.aimspress.com/news/96.html"
-"AIMS Environmental Science"	"2372-0352"	"https://www.aimspress.com/news/105.html"
-"AIMS Genetics"	"2377-1143"	"https://www.aimspress.com/news/14.html"
-"AIMS Geosciences"	"2471-2132"	"https://www.aimspress.com/news/115.html"
-"AIMS Materials Science"	"2372-0484"	"https://www.aimspress.com/news/123.html"
-"AIMS Mathematics"	"2473-6988"	"https://www.aimspress.com/news/204.html"
-"AIMS Medical Science"	"2375-1576"	"https://www.aimspress.com/news/38.html"
-"AIMS Microbiology"	"2471-1888"	"https://www.aimspress.com/news/132.html"
-"AIMS Molecular Science"	"2372-0301"	"https://www.aimspress.com/news/24.html"
-"AIMS Neuroscience"	"2373-7972"	"https://www.aimspress.com/news/51.html"
-"AIMS Public Health"	"2327-8994"	"https://www.aimspress.com/news/140.html"
-"Big Data and Information Analytics"	"2380-6974"	"https://www.aimspress.com/news/270.html"
-"Green Finance"	"2643-1092"	"https://www.aimspress.com/news/333.html"
-"Mathematics in Engineering"	"2640-3501"	"https://www.aimspress.com/news/284.html"
-"National Accounting Review"	NA	"https://www.aimspress.com/news/350.html"
-"Quantitative Finance and Economics"	"2573-0134"	"https://www.aimspress.com/news/256.html"
+Title	ISSN	Documentation	category
+Mathematical Biosciences and Engineering	1551-0018	https://www.aimspress.com/news/295.html	math
+AIMS Agriculture and Food	2471-2086	https://www.aimspress.com/news/72.html	biology
+AIMS Allergy and Immunology	2575-615X	https://www.aimspress.com/news/217.html	biology
+AIMS Bioengineering	2375-1495	https://www.aimspress.com/news/81.html	biology
+AIMS Biophysics	2377-9098	https://www.aimspress.com/news/89.html	physics
+AIMS Electronics and Electrical Engineering	2578-1588	https://www.aimspress.com/news/243.html	engineering
+AIMS Energy	2333-8334	https://www.aimspress.com/news/96.html	engineering
+AIMS Environmental Science	2372-0352	https://www.aimspress.com/news/105.html	geography
+AIMS Genetics	2377-1143	https://www.aimspress.com/news/14.html	biology
+AIMS Geosciences	2471-2132	https://www.aimspress.com/news/115.html	geography
+AIMS Materials Science	2372-0484	https://www.aimspress.com/news/123.html	chemistry
+AIMS Mathematics	2473-6988	https://www.aimspress.com/news/204.html	math
+AIMS Medical Science	2375-1576	https://www.aimspress.com/news/38.html	medicine
+AIMS Microbiology	2471-1888	https://www.aimspress.com/news/132.html	biology
+AIMS Molecular Science	2372-0301	https://www.aimspress.com/news/24.html	biology
+AIMS Neuroscience	2373-7972	https://www.aimspress.com/news/51.html	biology
+AIMS Public Health	2327-8994	https://www.aimspress.com/news/140.html	medicine
+Big Data and Information Analytics	2380-6974	https://www.aimspress.com/news/270.html	math
+Green Finance	2643-1092	https://www.aimspress.com/news/333.html	math
+Mathematics in Engineering	2640-3501	https://www.aimspress.com/news/284.html	math
+National Accounting Review	NA	https://www.aimspress.com/news/350.html	math
+Quantitative Finance and Economics	2573-0134	https://www.aimspress.com/news/256.html	math
