@@ -8,8 +8,7 @@
     <link href="http://www.zotero.org/styles/aims-press" rel="independent-parent"/>
     <link href="#DOCUMENTATION#" rel="documentation"/>
     <category citation-format="numeric"/>
-    <category field="CATEGORY"/>
-    <issn>#ISSN#</issn>
+    <category field="#FIELD#"/>
     <eissn>#EISSN#</eissn>
     <updated>2019-10-10T12:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
