@@ -5,7 +5,7 @@
     <title>#TITLE#</title>
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
-    <link href="http://www.zotero.org/styles/cryptogamie-bryologie" rel="independent-parent"/>
+    <link href="http://www.zotero.org/styles/museum-national-dhistoire-naturelle" rel="independent-parent"/>
     <link href="#DOCUMENTATION#" rel="documentation"/>
     <category citation-format="author-date"/>
     <category field="#FIELD#"/>
