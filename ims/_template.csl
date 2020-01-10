@@ -3,13 +3,11 @@
   <!-- #XML-COMMENT# -->
   <info>
     <title>#TITLE#</title>
-    <title-short>#TITLE-SHORT#</title-short>
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
     <link href="http://www.zotero.org/styles/institute-of-mathematical-statistics" rel="independent-parent"/>
     <link href="#DOCUMENTATION#" rel="documentation"/>
     <category citation-format="numeric"/>
-    <category field="physics"/>
     <category field="math"/>
     <issn>#ISSN#</issn>
     <eissn>#EISSN#</eissn>
