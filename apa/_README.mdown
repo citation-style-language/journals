@@ -1,3 +1,7 @@
+## 2019-12-24
+
+Pulled latest journal metadata from URL below. Selected active journals, manually sorted list alphabetically, checked deletions by hand.
+
 ## 2014-06-10
 
 Found metadata at http://supp.apa.org/kbart/journals/ (searched for "kbart apa").

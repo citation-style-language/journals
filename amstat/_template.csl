@@ -3,15 +3,16 @@
   <!-- #XML-COMMENT# -->
   <info>
     <title>#TITLE#</title>
+    <title-short>#TITLESHORT#</title-short>
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
-    <link href="http://www.zotero.org/styles/copernicus-publications" rel="independent-parent"/>
+    <link href="http://www.zotero.org/styles/american-statistical-association" rel="independent-parent"/>
+    <link href="http://amstat.tfjournals.com/asa-style-guide/" rel="documentation"/>
     <category citation-format="author-date"/>
-    <category field="#FIELD#"/>
-    <category field="#FIELD2#"/>
+    <category field="math"/>
     <issn>#ISSN#</issn>
     <eissn>#EISSN#</eissn>
-    <updated>2018-09-09T12:00:00+00:00</updated>
+    <updated>2017-07-26T12:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
 </style>

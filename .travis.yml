@@ -1,5 +1,5 @@
-sudo: false
+dist: xenial
 language: ruby
 cache: bundler
 rvm:
-  - 2.2
+  - 2.5.3
