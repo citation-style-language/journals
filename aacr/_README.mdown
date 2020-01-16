@@ -1,12 +1,16 @@
-## 23-04-2014
+## 2020-01-09
+
+Updated metadata by hand from http://www.aacrjournals.org/.
+
+## 2014-04-23
 
 Updated metadata (just scraped by hand from http://www.aacrjournals.org/ ).
 
-## 02-04-2013
+## 2013-02-04
 
 Running the script based on the content just committed by Rintze: https://github.com/citation-style-language/utilities/commit/34324bc135910367e10457590b48ad795cb36a7d
 
-## 01-17-2013
+## 2013-01-17
 
 Content based on a metadata spreadsheet for AACR made by Rintze:
 

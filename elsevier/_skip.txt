@@ -71,8 +71,10 @@ chem
 current-biology
 developmental-cell
 immunity
+joule
 molecular-cell
 neuron
+one-earth
 stem-cell-reports
 structure
 #Cell but different style
