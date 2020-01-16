@@ -1,50 +1,39 @@
-Title	eISSN	ISSN	Field	Field2
-Advances in Geosciences (ADGEO)	1680-7359	1680-7340	geology	x
-Advances in Radio Science (ARS)	1684-9973	1684-9965	physics	x
-Advances in Science and Research (ASR)	1992-0628	1992-0636	science	x
-Annales Geophysicae (ANGEO)	1432-0576	0992-7689	geology	x
-ASTRA Proceedings (AP)	X	X	astronomy	x
-Atmospheric Chemistry and Physics (ACP)	1680-7324	1680-7316	chemistry	physics
-Atmospheric Chemistry and Physics Discussions (ACPD)	1680-7375	X	chemistry	physics
-Atmospheric Measurement Techniques (AMT)	1867-8548	1867-1381	science	x
-Atmospheric Measurement Techniques Discussions (AMTD)	1867-8610	X	science	x
-Biogeosciences (BG)	1726-4189	1726-4170	biology	geology
-Biogeosciences Discussions (BGD)	1810-6285	X	biology	geology
-Climate of the Past (CP)	1814-9332	1814-9324	science	x
-Climate of the Past Discussions (CPD)	1814-9359	X	science	x
-Drinking Water Engineering and Science (DWES)	1996-9465	1996-9457	science	x
-Drinking Water Engineering and Science Discussions (DWESD)	1996-9481	X	science	x
-Earth Surface Dynamics (ESurf)	2196-632X	2196-6311	science	x
-Earth Surface Dynamics Discussions (ESurfD)	2196-6338	X	science	x
-Earth System Science Data (ESSD)	1866-3516	1866-3508	science	x
-Earth System Science Data Discussions (ESSDD)	1866-3591	X	science	x
-Earth System Dynamics (ESD)	2190-4987	2190-4979	science	x
-Earth System Dynamics Discussions (ESDD)	2190-4995	X	science	x
-Fossil Record (FR)	X	X	geology	biology
-Geographica Helvetica (GH)	2194-8798	0016-7312	geography	x
-Geoscientific Instrumentation, Methods and Data Systems (GI)	2193-0864	2193-0856	geology	x
-Geoscientific Instrumentation, Methods and Data Systems Discussions (GID)	2193-0872	X	geology	x
-Geoscientific Model Development (GMD)	1991-9603	1991-959X	geology	x
-Geoscientific Model Development Discussions (GMDD)	1991-962X	X	geology	x
-History of Geo- and Space Sciences (HGSS)	2190-5029	2190-5010	geology	x
-Hydrology and Earth System Sciences (HESS)	1607-7938	1027-5606	geology	x
-Hydrology and Earth System Sciences Discussions (HESSD)	1812-2116	X	geology	x
-Journal of Micropalaeontology	2041-4978	0262-821X	geology	x
-Journal of Sensors and Sensor Systems (JSSS)	2194-878X	2194-8771	engineering	x
-Mechanical Sciences (MS)	2191-916X	2191-9151	physics	x
-Natural Hazards and Earth System Sciences (NHESS)	1684-9981	1561-8633	geology	x
-Natural Hazards and Earth System Sciences Discussions (NHESSD)	2195-9269	X	geology	x
-Nonlinear Processes in Geophysics (NPG)	1607-7946	1023-5809	geology	x
-Nonlinear Processes in Geophysics Discussions (NPGD)	2198-5634	X	geology	x
-Ocean Science (OS)	1812-0792	1812-0784	geology	x
-Ocean Science Discussions (OSD)	1812-0822	X	geology	x
-Primate Biology (PB)	X	X	biology	x
-Scientific Drilling (SD)	1816-3459	1816-8957	geology	x
-SOIL	X	X	biology	x
-SOIL Discussions (SOILD)	X	X	biology	x
-Solid Earth (SE)	1869-9529	1869-9510	geology	x
-Solid Earth Discussions (SED)	1869-9537	X	geology	x
-Stephan Mueller Special Publication Series (SMSPS)	1868-4564	1868-4556	science	x
-The Cryosphere (TC)	1994-0424	1994-0416	geology	x
-The Cryosphere Discussions (TCD)	1994-0440	X	geology	x
-Web Ecology	1399-1183	2193-3081	science	x
+Title	ISSN	eISSN	Field	Field2
+Archives Animal Breeding	0003-9438	2363-9822	biology	zoology
+Advances in Geosciences	1680-7340	1680-7359 	geology	science
+ASTRA Proceedings	2199-3955	2199-3963	astronomy	x
+Advances in Radio Science	1684-9965	1684-9973	engineering	x
+Advances in Science and Research	1992-0628	1992-0636	science	x
+Advances in Statistical Climatology, Meteorology and Oceanography	2364-3579	2364-3587	math	x
+Annales Geophysicae	0992-7689	1432-0576	astronomy	x
+Atmospheric Chemistry and Physics	1680-7316	1680-7324	chemistry	physics
+Atmospheric Measurement Techniques	1867-1381	1867-8548	science	x
+Biogeosciences	1726-4170	1726-4189	science	x
+Climate of the Past	1814-9324	1814-9332	science	x
+DEUQUA Special Publications	2625-8129	2625-8137	geography	geology
+Drinking Water Engineering and Science	1996-9457	1996-9465	engineering	x
+E&G Quaternary Science Journal	0424-7116	2199-9090	geography	geology
+Earth System Science Data	1866-3508	1866-3516	science	x
+Earth Surface Dynamics	2196-6311	2196-632X	geology	science
+Earth System Dynamics	2190-4979	2190-4987	science	x
+Fossil Record	2193-0066	2193-0074	geology	zoology
+Geographica Helvetica	0016-7312	2194-8798	geography	social_science
+Geoscience Communication	2569-7102	2569-7110	communications	x
+Geoscientific Instrumentation, Methods and Data Systems	2193-0856	2193-0864	science	x
+Geoscientific Model Development	1991-959X	1991-9603	science	x
+History of Geo- and Space Sciences	2190-5010	2190-5029	history	x
+Hydrology and Earth System Sciences	1027-5606	1607-7938	science	geology
+Journal of Micropalaeontology	0262-821X	2041-4978	geology	zoology
+Journal of Sensors and Sensor Systems	2194-8771	2194-878X	engineering	x
+Mechanical Sciences	2191-9151	2191-916X	engineering	x
+Natural Hazards and Earth System Sciences	1561-8633	1684-9981	science	x
+Nonlinear Processes in Geophysics	1023-5809	1607-7946	physics	geology
+Ocean Science	1812-0784	1812-0792	science	x
+Primate Biology	2363-4707	2363-4715	biology	x
+Proceedings of the International Association of Hydrological Sciences	2199-8981	2199-899X	science	x
+Scientific Drilling	1816-8957	1816-3459	geology	x
+SOIL	2199-3971	2199-398X	science	x
+Solid Earth	1869-9510	1869-9529	geology	science
+The Cryosphere	1994-0416	1994-0424	science	x
+Web Ecology	2193-3081	1399-1183	science	x
+Wind Energy Science	2366-7443	2366-7451	science	physics

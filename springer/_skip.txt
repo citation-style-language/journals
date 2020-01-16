@@ -15,6 +15,9 @@ magnetic-resonance-materials-in-physics-biology-and-medicine
 user-modeling-and-user-adapted-interaction
 wetlands
 
+# APA dependent
+journal-of-business-and-psychology
+
 # German Springer Styles: https://github.com/citation-style-language/styles/pull/1336
 herzschrittmachertherapie-elektrophysiologie
 obere-extremitat

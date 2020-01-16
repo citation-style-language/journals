@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" default-locale="en-GB">
   <!-- #XML-COMMENT# -->
   <info>
     <title>#TITLE#</title>
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
-    <link href="http://www.zotero.org/styles/copernicus-publications" rel="independent-parent"/>
-    <category citation-format="author-date"/>
+    <link href="http://www.zotero.org/styles/aims-press" rel="independent-parent"/>
+    <link href="#DOCUMENTATION#" rel="documentation"/>
+    <category citation-format="numeric"/>
     <category field="#FIELD#"/>
-    <category field="#FIELD2#"/>
-    <issn>#ISSN#</issn>
     <eissn>#EISSN#</eissn>
-    <updated>2018-09-09T12:00:00+00:00</updated>
+    <updated>2019-10-10T12:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
 </style>

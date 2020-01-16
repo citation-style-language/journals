@@ -7,6 +7,10 @@ American Psychologist	0003-066X	1935-990X	1946-01	1	1				http://content.apa.org/
 Archives of Scientific Psychology		2169-3269	2013-02	1	1				http://content.apa.org/journals/arc		arc				American Psychological Association
 Asian American Journal of Psychology	1948-1985	1948-1993	2009-08	S	1				http://content.apa.org/journals/aap		aap				Educational Publishing Foundation
 Aviation Psychology and Applied Human Factors	2192-0923	2192-0931	2011	1	1				http://content.apa.org/journals/apf		apf				Hogrefe Publishing
+Behavioral Development Bulletin		1942-0722	1998	7	1	2005	12	1	http://content.apa.org/journals/bdb		bdb				Development & Behavior Analysis Special Interest Group of the Association for Behavior Analysis
+Behavioral Development Bulletin		1942-0722	2007	13	1	2014-12	19	4	http://content.apa.org/journals/bdb		bdb				Joseph D. Cautilli
+Behavioral Development Bulletin		1942-0722	2015-04	20	1	2017-10	22	2	http://content.apa.org/journals/bdb		bdb				Educational Publishing Foundation
+Behavioral Development		1942-0722	2018-04	23	1				http://content.apa.org/journals/bdb		bdb				Educational Publishing Foundation
 Behavioral Neuroscience	0735-7044	1939-0084	1983-02	97	1				http://content.apa.org/journals/bne		bne				American Psychological Association
 Canadian Journal of Behavioural Science / Revue canadienne des sciences du comportement	0008-400X	1879-2669	1969	1	1	1981-10	13	4	http://content.apa.org/journals/cbs		cbs				University of Toronto Press
 Canadian Journal of Behavioural Science / Revue canadienne des sciences du comportement	0008-400X	1879-2669	1982-01	14	1	2007-10	39	4	http://content.apa.org/journals/cbs		cbs				Canadian Psychological Association
@@ -29,6 +33,7 @@ Dreaming	1053-0797	1573-3351	1991-03	1	1	1998-12	8	4	http://content.apa.org/jour
 Dreaming	1053-0797	1573-3351	1999-03	9	1	2003-12	13	4	http://content.apa.org/journals/drm		drm				Kluwer Academic/Human Sciences Press
 Dreaming	1053-0797	1573-3351	2004-03	14	1				http://content.apa.org/journals/drm		drm				Educational Publishing Foundation
 Emotion	1528-3542	1931-1516	2001-03	1	1				http://content.apa.org/journals/emo		emo				American Psychological Association
+European Journal of Health Psychology	2512-8442	2512-8450	2018	25	1				http://content.apa.org/journals/ejh		ejh				Hogrefe Publishing
 European Journal of Psychological Assessment	1015-5759	2151-2426	1995	11	1	2009	25	4	http://content.apa.org/journals/jpa		jpa				Hogrefe & Huber Publishers
 European Journal of Psychological Assessment	1015-5759	2151-2426	2010	26	1				http://content.apa.org/journals/jpa		jpa				Hogrefe Publishing
 European Psychologist	1016-9040	1878-531X	1996-03	1	1	2009	14	3	http://content.apa.org/journals/epp		epp				Hogrefe & Huber Publishers
@@ -46,13 +51,18 @@ GeroPsych: The Journal of Gerontopsychology and Geriatric Psychiatry	1662-9647	1
 Group Dynamics: Theory, Research, and Practice	1089-2699	1930-7802	1997-03	1	1				http://content.apa.org/journals/gdn		gdn				Educational Publishing Foundation
 Health Psychology	0278-6133	1930-7810	1982	1	1	1992	11	6	http://content.apa.org/journals/hea		hea				Lawrence Erlbaum Associates
 Health Psychology	0278-6133	1930-7810	1993-01	12	1				http://content.apa.org/journals/hea		hea				American Psychological Association
-History of Psychology	1093-4510	1939-0610	1998-02	1	1				http://content.apa.org/journals/hop		hop				Educational Publishing Foundation
+History of Psychology	1093-4510	1939-0610	1998-02	1	1	2017-02	20	1	http://content.apa.org/journals/hop		hop				Educational Publishing Foundation
+History of Psychology	1093-4510	1939-0610	2017-05	20	2				http://content.apa.org/journals/hop		hop				American Psychological Association
+International Journal of Behavioral Consultation and Therapy		1555-7855	2005	1	1	2014	9	2	http://content.apa.org/journals/bct		bct				Joseph D. Cautilli
 International Journal of Play Therapy	1555-6824	1939-0629	1992	1	1	2006	15	2	http://content.apa.org/journals/pla		pla				Assn for Play Therapy
 International Journal of Play Therapy	1555-6824	1939-0629	2007	16	1				http://content.apa.org/journals/pla		pla				Educational Publishing Foundation
 International Journal of Stress Management	1072-5245	1573-3424	2003-02	10	1				http://content.apa.org/journals/str		str				Educational Publishing Foundation
 International Perspectives in Psychology: Research, Practice, Consultation	2157-3883	2157-3891	2011-08	1	S				http://content.apa.org/journals/ipp		ipp				Educational Publishing Foundation
 Journal of Animal Behavior	0095-9928		1911-01	1	1	1916-11	6	6	http://content.apa.org/journals/jab		jab				Henry Holt and Company, Inc.
 Journal of Applied Psychology	0021-9010	1939-1854	1917-03	1	1				http://content.apa.org/journals/apl		apl				American Psychological Association
+Journal of Behavior Analysis in Health, Sports, Fitness and Medicine		1946-7079	2008	1	1	2009	2	1	http://content.apa.org/journals/bah		bah				Joseph D. Cautilli
+Journal of Behavior Assessment and Intervention in Children		2155-7853	2010	1	1	2010	1	1	http://content.apa.org/journals/aic		aic				Joseph D. Cautilli
+Journal of Behavioral Health and Medicine		2375-4656	2010	1	1	2010	1	3	http://content.apa.org/journals/bhm		bhm				Joseph D. Cautilli
 Journal of Comparative Psychology	0093-4127		1921-02	1	1	1946-12	39	6	http://content.apa.org/journals/com		com				Williams & Wilkins Company
 Journal of Comparative and Physiological Psychology	0021-9940		1947-02	40	1	1982-12	96	6	http://content.apa.org/journals/com		com				American Psychological Association
 Journal of Comparative Psychology	0735-7036	1939-2087	1983-03	97	1				http://content.apa.org/journals/com		com				American Psychological Association
@@ -64,6 +74,7 @@ Journal of Consulting and Clinical Psychology	0022-006X	1939-2117	1968-02	32	1		
 Journal of Counseling Psychology	0022-0167	1939-2168	1954	1	1	1966	13	4	http://content.apa.org/journals/cou		cou				Wm. C. Brown Co.
 Journal of Counseling Psychology	0022-0167	1939-2168	1967-01	14	1				http://content.apa.org/journals/cou		cou				American Psychological Association
 Journal of Diversity in Higher Education	1938-8926	1938-8934	2008-03	1	1				http://content.apa.org/journals/dhe		dhe				Educational Publishing Foundation
+Journal of Early and Intensive Behavior Intervention		1554-4893	2004	1	1	2008	5	3	http://content.apa.org/journals/eib		eib				Joseph D. Cautilli
 Journal of Educational Psychology	0022-0663	1939-2176	1910-01	1	1	1956-12	47	8	http://content.apa.org/journals/edu		edu				Warwick & York
 Journal of Educational Psychology	0022-0663	1939-2176	1957-01	48	1				http://content.apa.org/journals/edu		edu				American Psychological Association
 Journal of Experimental Psychology	0022-1015		1916-02	1	1	1938-06	22	6	http://content.apa.org/journals/xge		xge				Psychological Review Company
@@ -80,7 +91,8 @@ Journal of Family Psychology	0893-3200	1939-1293	1989-09	3	1	1992-03	5	3-4	http:
 Journal of Family Psychology	0893-3200	1939-1293	1992-09	6	1				http://content.apa.org/journals/fam		fam				American Psychological Association
 Journal of Individual Differences	1614-0001	2151-2299	2005	26	1	2009	30	3	http://content.apa.org/journals/jid		jid				Hogrefe & Huber Publishers
 Journal of Individual Differences	1614-0001	2151-2299	2009	30	4				http://content.apa.org/journals/jid		jid				Hogrefe Publishing
-Journal of Latina/o Psychology	2168-1678	2163-0070	2012-08	1	S				http://content.apa.org/journals/lat		lat				Educational Publishing Foundation
+Journal of Latina/o Psychology	2168-1678	2163-0070	2012-08	1	S	2018-11	6	4	http://content.apa.org/journals/lat		lat				Educational Publishing Foundation
+Journal of Latinx Psychology	2578-8086	2578-8094	2019-02	7	1				http://content.apa.org/journals/lat		lat				Educational Publishing Foundation
 Journal of Media Psychology: Theories, Methods, and Applications	1864-1105		2008	20	1	2009	21	2	http://content.apa.org/journals/jmp		jmp				Hogrefe & Huber Publishers
 Journal of Media Psychology: Theories, Methods, and Applications	1864-1105		2009	21	3	2010	22	4	http://content.apa.org/journals/jmp		jmp				Hogrefe Publishing
 Journal of Media Psychology: Theories, Methods, and Applications	1864-1105	2151-2388	2011	23	1				http://content.apa.org/journals/jmp		jmp				Hogrefe Publishing
@@ -91,6 +103,8 @@ Journal of Personality and Social Psychology	0022-3514	1939-1315	1965-01	1	1				
 Journal of Personnel Psychology	1866-5888	2190-5150	2010	9	1				http://content.apa.org/journals/prs		prs				Hogrefe Publishing
 Journal of Psychophysiology	0269-8803	2151-2124	1999	13	1	2009	23	1	http://content.apa.org/journals/jop		jop				Hogrefe & Huber Publishers
 Journal of Psychophysiology	0269-8803	2151-2124	2009	23	2				http://content.apa.org/journals/jop		jop				Hogrefe Publishing
+Journal of Psychotherapy Integration	1053-0479	1573-3696	1991-03	1	1	1997-09	7	3	http://content.apa.org/journals/int		int				Plenum Publishing Corp.
+Journal of Psychotherapy Integration	1053-0479	1573-3696	1997-12	7	4	2001-12	11	4	http://content.apa.org/journals/int		int				Kluwer Academic/Plenum Publishers
 Journal of Psychotherapy Integration	1053-0479	1573-3696	2002-03	12	1				http://content.apa.org/journals/int		int				Educational Publishing Foundation
 Journal of Rural Mental Health	1935-942X	2163-8969	2007	31	3	2012	36	2	http://content.apa.org/journals/rmh		rmh				National Association for Rural Mental Health
 Journal of Rural Mental Health	1935-942X	2163-8969	2013-09	37	1				http://content.apa.org/journals/rmh		rmh				Educational Publishing Foundation
@@ -102,10 +116,8 @@ Law and Human Behavior	0147-7307	1573-661X	1997-02	21	1	2004-12	28	6	http://cont
 Law and Human Behavior	0147-7307	1573-661X	2005-02	29	1	2011-12	35	6	http://content.apa.org/journals/lhb		lhb				Springer
 Law and Human Behavior	0147-7307	1573-661X	2012-02	36	1				http://content.apa.org/journals/lhb		lhb				Educational Publishing Foundation
 Methodology: European Journal of Research Methods for the Behavioral and Social Sciences	1614-1881	1614-2241	2005	1	1	2009	5	4	http://content.apa.org/journals/med		med				Hogrefe & Huber Publishers
-Methodology: European Journal of Research Methods for the Behavioral and Social Sciences	1614-1881	1614-2241	2010	6	1				http://content.apa.org/journals/med		med				Hogrefe Publishing
-Military Psychology	0899-5605	1532-7876	1989	1	1	2007	19	4	http://content.apa.org/journals/mil		mil				Lawrence Erlbaum
-Military Psychology	0899-5605	1532-7876	2008	20	S1	2012-11	24	6	http://content.apa.org/journals/mil		mil				Taylor & Francis
-Military Psychology	0899-5605	1532-7876	2013-01	25	1				http://content.apa.org/journals/mil		mil				Educational Publishing Foundation
+Methodology: European Journal of Research Methods for the Behavioral and Social Sciences	1614-1881	1614-2241	2010	6	1	2019	15	4	http://content.apa.org/journals/med		med				Hogrefe Publishing
+Motivation Science	2333-8113	2333-8121	2014-08	1	S				http://content.apa.org/journals/mot		mot				Educational Publishing Foundation
 Neuropsychology	0894-4105	1931-1559	1987-05	1	1	1987-11	1	2	http://content.apa.org/journals/neu		neu				Philadelphia Clinical Neuropsychology Group
 Neuropsychology	0894-4105	1931-1559	1988	2	1	1990-10	4	4	http://content.apa.org/journals/neu		neu				Taylor & Francis
 Neuropsychology	0894-4105	1931-1559	1991-01	5	1	1992-10	6	4	http://content.apa.org/journals/neu		neu				Educational Publishing Foundation
@@ -115,14 +127,16 @@ Peace and Conflict: Journal of Peace Psychology	1078-1919	1532-7949	1995-03	1	1	
 Peace and Conflict: Journal of Peace Psychology	1078-1919	1532-7949	2007-03	13	1	2011-11	17	4	http://content.apa.org/journals/pac		pac				Taylor & Francis
 Peace and Conflict: Journal of Peace Psychology	1078-1919	1532-7949	2012-02	18	1				http://content.apa.org/journals/pac		pac				Educational Publishing Foundation
 Personality Disorders: Theory, Research, and Treatment	1949-2715	1949-2723	2009-08	S	1				http://content.apa.org/journals/per		per				Educational Publishing Foundation
+Practice Innovations	2377-889X	2377-8903	2016-03	1	1				http://content.apa.org/journals/pri		pri				Educational Publishing Foundation
 Professional Psychology	0033-0175		1969-11	1	1	1982-12	13	6	http://content.apa.org/journals/pro		pro				American Psychological Association
 Professional Psychology: Research and Practice	0735-7028	1939-1323	1983-02	14	1				http://content.apa.org/journals/pro		pro				American Psychological Association
 Professional School Psychology	0886-3016		1986	1	1	1989	4	4	http://content.apa.org/journals/spq		spq				Lawrence Erlbaum
 School Psychology Quarterly	1045-3830	1939-1560	1990	5	1	2006	21	4	http://content.apa.org/journals/spq		spq				Guilford Publications
-School Psychology Quarterly	1045-3830	1939-1560	2007-03	22	1				http://content.apa.org/journals/spq		spq				Educational Publishing Foundation
+School Psychology Quarterly	1045-3830	1939-1560	2007-03	22	1	2018-12	33	4	http://content.apa.org/journals/spq		spq				Educational Publishing Foundation
+School Psychology	2578-4218	2578-4226	2019-01	34	1				http://content.apa.org/journals/spq		spq				Educational Publishing Foundation
 Psychoanalytic Psychology	0736-9735	1939-1331	1984	1	1	1997	14	4	http://content.apa.org/journals/pap		pap				Lawrence Erlbaum Associates, Inc.
 Psychoanalytic Psychology	0736-9735	1939-1331	1998	15	1				http://content.apa.org/journals/pap		pap				Educational Publishing Foundation
-Psychobiology	0096-9745		1917-07	1	1	1920-08	2	6	http://content.apa.org/journals/psb		psb				Williams & Wilkins Company
+Psychobiology	0096-9745		1917-07	1	1	1920-12	2	6	http://content.apa.org/journals/psb		psb				Williams & Wilkins Company
 Psychological Assessment: A Journal of Consulting and Clinical Psychology	1040-3590	1939-134X	1989-03	1	1	1991-12	3	4	http://content.apa.org/journals/pas		pas				American Psychological Association
 Psychological Assessment	1040-3590	1939-134X	1992-03	4	1				http://content.apa.org/journals/pas		pas				American Psychological Association
 Psychological Bulletin	0033-2909	1939-1455	1904-01	1	1	1905-12	2	12	http://content.apa.org/journals/bul		bul				The Macmillan Company
@@ -137,13 +151,16 @@ Psychological Review	0033-295X	1939-1471	1912-01	19	1	1937-11	44	6	http://conten
 Psychological Review	0033-295X	1939-1471	1938-01	45	1				http://content.apa.org/journals/rev		rev				American Psychological Association
 Psychological Services	1541-1559	1939-148X	2004	1	1				http://content.apa.org/journals/ser		ser				Educational Publishing Foundation
 Psychological Trauma: Theory, Research, Practice, and Policy	1942-9681	1942-969X	2008-08	S	1				http://content.apa.org/journals/tra		tra				Educational Publishing Foundation
+Psychology & Neuroscience	1984-3054	1983-3288	2008-01	1	1	2014-06	7	4	http://content.apa.org/journals/pne		pne				Pontifícia Universidade Católica do Rio de Janeiro
+Psychology & Neuroscience	1984-3054	1983-3288	2015-03	8	1				http://content.apa.org/journals/pne		pne				Educational Publishing Foundation
 Psychology and Aging	0882-7974	1939-1498	1986-03	1	1				http://content.apa.org/journals/pag		pag				American Psychological Association
 Psychology of Addictive Behaviors	0893-164X	1939-1501	1987	1	1	1991	5	2	http://content.apa.org/journals/adb		adb				Society of Psychologists in Addictive Behaviors
 Psychology of Addictive Behaviors	0893-164X	1939-1501	1992-03	6	1	2004-12	18	4	http://content.apa.org/journals/adb		adb				Educational Publishing Foundation
 Psychology of Addictive Behaviors	0893-164X	1939-1501	2005-03	19	1				http://content.apa.org/journals/adb		adb				American Psychological Association
-Psychology of Aesthetics, Creativity, and the Arts	1931-3896	1931-390X	2006-08	S	1				http://content.apa.org/journals/aca		aca				American Psychological Association
+Psychology of Aesthetics, Creativity, and the Arts	1931-3896	1931-390X	2006-08	S	1				http://content.apa.org/journals/aca		aca				Educational Publishing Foundation
 Psychology of Consciousness: Theory, Research, and Practice	2326-5523	2326-5531	2013-08	1	S				http://content.apa.org/journals/cns		cns				Educational Publishing Foundation
-Psychology of Men & Masculinity	1524-9220	1939-151X	2000-01	1	1				http://content.apa.org/journals/men		men				Educational Publishing Foundation
+Psychology of Men & Masculinity	1524-9220	1939-151X	2000-01	1	1	2018-10	19	4	http://content.apa.org/journals/men		men				Educational Publishing Foundation
+Psychology of Men & Masculinities	1524-9220	1939-151X	2019-01	20	1				http://content.apa.org/journals/men		men				Educational Publishing Foundation
 Psychology of Popular Media Culture	2160-4134	2160-4142	2011-08	1	S				http://content.apa.org/journals/ppm		ppm				Educational Publishing Foundation
 Psychology of Religion and Spirituality	1941-1022	1943-1562	2008-08	S	1				http://content.apa.org/journals/rel		rel				Educational Publishing Foundation
 Psychology of Sexual Orientation and Gender Diversity	2329-0382	2329-0390	2013-08	1	S				http://content.apa.org/journals/sgd		sgd				Educational Publishing Foundation
@@ -163,31 +180,40 @@ Psychotherapy: Theory, Research & Practice	0033-3204		1963	1	1	1983	20	4	http://
 Psychotherapy: Theory, Research, Practice, Training	0033-3204	1939-1536	1984	21	1	2001	38	4	http://content.apa.org/journals/pst		pst				Division of Psychotherapy (29), American Psychological Association
 Psychotherapy: Theory, Research, Practice, Training	0033-3204	1939-1536	2002	39	1	2010-12	47	4	http://content.apa.org/journals/pst		pst				Educational Publishing Foundation
 Psychotherapy	0033-3204	1939-1536	2011-03	48	1				http://content.apa.org/journals/pst		pst				Educational Publishing Foundation
-Qualitative Psychology	2326-3598	2326-3601	2013-08	1	S				http://content.apa.org/journals/qua		qua				Educational Publishing Foundation
+Qualitative Psychology	2326-3601	2326-3598	2013-08	1	S				http://content.apa.org/journals/qua		qua				Educational Publishing Foundation
 Rehabilitation Psychology	0090-5550	1939-1544	1972	19	1	1979	26	4	http://content.apa.org/journals/rep		rep				Division 22 of the American Psychological Association
 Rehabilitation Psychology	0090-5550	1939-1544	1982	27	1	1997	42	4	http://content.apa.org/journals/rep		rep				Springer Publishing
 Rehabilitation Psychology	0090-5550	1939-1544	1998	43	1	2005-11	50	4	http://content.apa.org/journals/rep		rep				Educational Publishing Foundation
 Rehabilitation Psychology	0090-5550	1939-1544	2006-02	51	1				http://content.apa.org/journals/rep		rep				American Psychological Association
-Review of General Psychology	1089-2680	1939-1552	1997-03	1	1				http://content.apa.org/journals/gpr		gpr				Educational Publishing Foundation
 Rorschachiana	1192-5604		1993	18	1	1993	18	1	http://content.apa.org/journals/ror		ror				Hogrefe & Huber Publishers
 Rorschachiana	1192-5604	2151-206X	1994	19	1	2009	30	2	http://content.apa.org/journals/ror		ror				Hogrefe & Huber Publishers
 Rorschachiana	1192-5604	2151-206X	2010	31	1				http://content.apa.org/journals/ror		ror				Hogrefe Publishing
 Schizophrenia Bulletin	0586-7614	1745-1701	1969	1	1	2004	30	4	http://content.apa.org/journals/szb		szb				National Institute of Mental Health
+Scholarship of Teaching and Learning in Psychology	2332-2101	2332-211X	2014-08	1	S				http://content.apa.org/journals/stl		stl				Educational Publishing Foundation
 Social Psychology	1864-9335	2151-2590	2008	39	1	2009	40	2	http://content.apa.org/journals/zsp		zsp				Hogrefe & Huber Publishers
 Social Psychology	1864-9335	2151-2590	2009	40	3				http://content.apa.org/journals/zsp		zsp				Hogrefe Publishing
 Spirituality in Clinical Practice	2326-4500	2326-4519	2013-08	1	S				http://content.apa.org/journals/scp		scp				Educational Publishing Foundation
 Sport, Exercise, and Performance Psychology	2157-3905	2157-3913	2011-08	1	S				http://content.apa.org/journals/spy		spy				Educational Publishing Foundation
+Stigma and Health	2376-6972	2376-6964	2015-08	1	S				http://content.apa.org/journals/sah		sah				Educational Publishing Foundation
 Swiss Journal of Psychology / Schweizerische Zeitschrift für Psychologie / Revue Suisse de Psychologie	1421-0185	1662-0879	1999-03	58	1	2011-12	70	4	http://content.apa.org/journals/sjp		sjp				Verlag Hans Huber
-Swiss Journal of Psychology	1421-0185	1662-0879	2012-01	71	1				http://content.apa.org/journals/sjp		sjp				Verlag Hans Huber
+Swiss Journal of Psychology	1421-0185	1662-0879	2012-01	71	1	2015-10	74	4	http://content.apa.org/journals/sjp		sjp				Verlag Hans Huber
+Swiss Journal of Psychology	1421-0185	1662-0879	2016-01	75	1				http://content.apa.org/journals/sjp		sjp				Hogrefe Publishing
+The Behavior Analyst Today		1539-4352	1999	1	1	2014-07	14	1-2	http://content.apa.org/journals/bar		bar				Joseph D. Cautilli
+Behavior Analysis: Research and Practice		2372-9414	2015-02	15	1				http://content.apa.org/journals/bar		bar				Educational Publishing Foundation
 The Canadian Psychologist	0008-4832		1950-11	1	1	1963-10	4a	4	http://content.apa.org/journals/cap		cap				Canadian Psychological Association
 Canadian Psychologist/Psychologie canadienne	0008-4832		1964-01	5a	1	1974-10	15	4	http://content.apa.org/journals/cap		cap				Canadian Psychological Association
 Canadian Psychological Review/Psychologie Canadienne	0318-2096		1975-01	16	1	1979-10	20	4	http://content.apa.org/journals/cap		cap				Canadian Psychological Association
 Canadian Psychology/Psychologie canadienne	0708-5591	1878-7304	1980-01	21	1	2007-11	48	4	http://content.apa.org/journals/cap		cap				Canadian Psychological Association
 Canadian Psychology/Psychologie canadienne	0708-5591	1878-7304	2008-02	49	1				http://content.apa.org/journals/cap		cap				Educational Publishing Foundation
+The Humanistic Psychologist	0887-3267	1547-3333	1985	13	1	2007	35	4	http://content.apa.org/journals/hum		hum				Lawrence Erlbaum
+The Humanistic Psychologist	0887-3267	1547-3333	2008-01	36	1	2015-10	43	4	http://content.apa.org/journals/hum		hum				Taylor & Francis
+The Humanistic Psychologist	0887-3267	1547-3333	2016-03	44	1				http://content.apa.org/journals/hum		hum				Educational Publishing Foundation
 The Journal of Abnormal Psychology	0145-2339		1906-04	1	1	1920-12	15	5-6	http://content.apa.org/journals/abn		abn				American Psychological Association
 The Journal of Abnormal Psychology and Social Psychology	0145-2347		1921-04	16	1	1925-01	19	4	http://content.apa.org/journals/abn		abn				American Psychological Association
 The Journal of Abnormal and Social Psychology	0096-851X		1925-04	20	1	1964-12	69	6	http://content.apa.org/journals/abn		abn				American Psychological Association
 Journal of Abnormal Psychology	0021-843X	1939-1846	1965-02	70	1				http://content.apa.org/journals/abn		abn				American Psychological Association
+The Journal of Behavior Analysis of Offender and Victim Treatment and Prevention		2155-8655	2008	1	1	2010	2	2	http://content.apa.org/journals/bov		bov				Joseph D. Cautilli
+The Journal of Speech and Language Pathology – Applied Behavior Analysis		1932-4731	2006	1	1	2010	5	2	http://content.apa.org/journals/slp		slp				Joseph D. Cautilli
 The Psychological Review: Monograph Supplements	0096-9753		1896-02	1	2	1896-02	1	2	http://content.apa.org/journals/mon		mon				Macmillan & Company
 The Psychological Review: Monograph Supplements	0096-9753		1896-10	1	3	1906-08	7	3	http://content.apa.org/journals/mon		mon				The Macmillan Company
 The Psychological Review: Monograph Supplements	0096-9753		1907-01	8	1	1910-01	12	3	http://content.apa.org/journals/mon		mon				The Review Publishing Company
@@ -204,10 +230,13 @@ Journal of Theoretical and Philosophical Psychology	1068-8471	2151-3341	1993	13	
 Journal of Theoretical and Philosophical Psychology	1068-8471	2151-3341	2004	24	1	2004	24	2	http://content.apa.org/journals/teo		teo				Division 24 of the American Psychological Association
 Journal of Theoretical and Philosophical Psychology	1068-8471	2151-3341	2005	25	1	2008	28	2	http://content.apa.org/journals/teo		teo				Division 24 of the American Psychological Association, Society for Theoretical and Philosophical Psychology
 Journal of Theoretical and Philosophical Psychology	1068-8471	2151-3341	2009	29	1				http://content.apa.org/journals/teo		teo				Educational Publishing Foundation
-Training and Education in Professional Psychology	1931-3918	1931-3926	2006-08	S	1				http://content.apa.org/journals/tep		tep				American Psychological Association
-Traumatology	1534-7656	1085-9373	2002-03	8	1	2006-12	12	4	http://content.apa.org/journals/trm		trm				Academy of Traumatology
+Training and Education in Professional Psychology	1931-3918	1931-3926	2006-08	S	1				http://content.apa.org/journals/tep		tep				Educational Publishing Foundation
+Translational Issues in Psychological Science	2332-2136	2332-2179	2014-08	1	S				http://content.apa.org/journals/tps		tps				Educational Publishing Foundation
+Traumatology	1534-7656	1085-9373	1995-03	1	1	1998	3	2	http://content.apa.org/journals/trm		trm				Green Cross Project
+Traumatology	1534-7656	1085-9373	1998-03	4	1	2006-12	12	4	http://content.apa.org/journals/trm		trm				Academy of Traumatology
 Traumatology	1534-7656	1085-9373	2007-03	13	1	2013-12	19	4	http://content.apa.org/journals/trm		trm				Sage Publications
-Traumatology: An International Journal		1085-9373	2014-03	20	1				http://content.apa.org/journals/trm		trm				Educational Publishing Foundation
+Traumatology: An International Journal		1085-9373	2014-03	20	1	2014-06	20	2	http://content.apa.org/journals/trm		trm				Educational Publishing Foundation
+Traumatology		1085-9373	2014-09	20	3				http://content.apa.org/journals/trm		trm				Educational Publishing Foundation
 Treatment		1522-3736	1997-09	1	1	1997-09	1	1	http://content.apa.org/journals/pre		pre				American Psychological Association
 Prevention & Treatment		1522-3736	1998-06	1	2	2003-06	6	1	http://content.apa.org/journals/pre		pre				American Psychological Association
 Zeitschrift für Psychologie/Journal of Psychology	0044-3409		2007	215	1	2009	217	3	http://content.apa.org/journals/zfp		zfp				Hogrefe & Huber Publishers

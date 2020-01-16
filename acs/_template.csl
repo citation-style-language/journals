@@ -6,13 +6,13 @@
     <title-short>#TITLESHORT#</title-short>
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
-    <link href="http://www.zotero.org/styles/#PARENT#" rel="independent-parent"/>
+    <link href="http://www.zotero.org/styles/american-chemical-society" rel="independent-parent"/>
     <link href="#DOCUMENTATION#" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="#FIELD#"/>
     <issn>#ISSN#</issn>
     <eissn>#EISSN#</eissn>
-    <updated>2017-10-04T12:00:00+00:00</updated>
+    <updated>2017-12-31T12:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
 </style>
