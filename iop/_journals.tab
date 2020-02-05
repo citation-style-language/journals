@@ -20,7 +20,6 @@ Izvestiya: Mathematics	1064-5632	1468-4810	numeric	institute-of-physics-numeric	
 Journal of Breath Research	1752-7155	1752-7163	numeric	institute-of-physics-numeric	http://iopscience.iop.org/1752-7163
 Journal of Cosmology and Astroparticle Physics		1475-7516	numeric	institute-of-physics-numeric	http://iopscience.iop.org/1475-7516
 Journal of Geophysics and Engineering	1742-2132	1742-2140	numeric	institute-of-physics-numeric	http://iopscience.iop.org/1742-2140
-Journal of Instrumentation		1748-0221	numeric	institute-of-physics-numeric	http://iopscience.iop.org/1748-0221
 Journal of Micromechanics and Microengineering	0960-1317	1361-6439	numeric	institute-of-physics-numeric	http://iopscience.iop.org/0960-1317
 Journal of Neural Engineering	1741-2560	1741-2552	numeric	institute-of-physics-numeric	http://iopscience.iop.org/1741-2552
 Journal of Optics	2040-8978	2040-8986	numeric	institute-of-physics-numeric	http://iopscience.iop.org/2040-8986
@@ -64,7 +63,27 @@ Semiconductor Science and Technology	0268-1242	1361-6641	numeric	institute-of-ph
 Smart Materials and Structures	0964-1726	1361-665X	numeric	institute-of-physics-numeric	http://iopscience.iop.org/0964-1726
 Superconductor Science and Technology	0953-2048	1361-6668	numeric	institute-of-physics-numeric	http://iopscience.iop.org/0953-2048
 Surface Topography: Metrology and Properties		2051-672X	numeric	institute-of-physics-numeric	http://iopscience.iop.org/2051-672X
-The Astronomical Journal	0004-6256	1538-3881	numeric	the-astrophysical-journal	http://aas.org/authors/manuscript-preparation-aj-apj-author-instructions#references
-The Astrophysical Journal	0004-637X	1538-4357	numeric	the-astrophysical-journal	http://aas.org/authors/manuscript-preparation-aj-apj-author-instructions#references
-The Astrophysical Journal Letters	2041-8205	2041-8213	numeric	the-astrophysical-journal	http://aas.org/authors/manuscript-preparation-aj-apj-author-instructions#references
-The Astrophysical Journal Supplement Series	0067-0049	1538-4365	numeric	the-astrophysical-journal	http://aas.org/authors/manuscript-preparation-aj-apj-author-instructions#references
+The Astronomical Journal	0004-6256	1538-3881	author-date	the-astrophysical-journal	http://aas.org/authors/manuscript-preparation-aj-apj-author-instructions#references
+The Astrophysical Journal Letters	2041-8205	2041-8213	author-date	the-astrophysical-journal	http://aas.org/authors/manuscript-preparation-aj-apj-author-instructions#references
+The Astrophysical Journal Supplement Series	0067-0049	1538-4365	author-date	the-astrophysical-journal	http://aas.org/authors/manuscript-preparation-aj-apj-author-instructions#references
+2D Materials		2053-1583	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Biomedical Physics & Engineering Express		2057-1976	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Engineering Research Express		2631-8695	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Electronic Structure		2516-1075	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Environmental Research Communications		2515-7620	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Flexible & Printed Electronics		2058-8585	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+IOP SciNotes		2633-1357	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Journal of Physics Communications		2399-6528	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+JPhys Complexity		2632-072X	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+JPhys Energy 		2515-7655	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+JPhys Materials		2515-7639	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+JPhys Photonics		2515-7647	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Machine Learning: Science and Technology		2632-2153	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Materials Research Express		2053-1591	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Multifunctional Materials		 2399-7532	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Nano Express		2632-959X	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Nano Futures		2399-1984	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Plasma Research Express		2516-1067	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Progress in Biomedical Engineering		2516-1091	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Progress in Energy		2516-1083	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2
+Quantum Science & Technology		2058-9565	numeric	institute-of-physics-numeric	https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2

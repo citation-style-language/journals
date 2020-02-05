@@ -1,3 +1,17 @@
+## 2020-02-04
+
+Added new IOP journals listed at https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2 under "Which journals these guidelines apply to ".
+
+Also used metadata from https://ioppublishing.org/librarians/#Pricing ("Download PDF Price List" > "2020 USD Pricing Document (.xlsx)") and https://iopscience.iop.org/journalList.
+
+See also https://publishingsupport.iopscience.iop.org/authoring-for-journals/?step=2 for journal style guidelines (note that these only apply to the journals in the list referenced above):
+
+"Please note it is not necessary to format your references in the ways shown in the guidelines, however we find some authors like to have a style to work to."
+
+and
+
+"You may use either of these two systems for your references (unless you are submitting to Fluid Dynamics Research, Physics in Medicine and Biology or Physiological Measurement, which require all references to be written using the Harvard alphabetical style), or Nuclear Fusion, which requires all references to be written using the Vancouver numerical system)."
+
 ## 2014-05-15
 
 Update metadata from http://iopscience.iop.org/page/Linking.
