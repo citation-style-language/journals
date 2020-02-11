@@ -1,8 +1,6 @@
 Title	ISSN	eISSN	Documentation	Field	Field2	Parent	Format
-Journal of Investigative Dermatology Symposium Proceedings	1087-0024	1529-1774	http://www.nature.com/jidsp/author_instructions.html#Manuscript-preparation	biology	medicine	journal-of-investigative-dermatology	author-date
 Lab Animal	0093-7355	1548-4475	http://www.labanimal.com/laban/authors/index.html#format	biology	medicine	nature	numeric
 Molecular Systems Biology	x	1744-4292	http://msb.embopress.org/authorguide#a3.4.5	biology	medicine	the-embo-journal	author-date
-Molecular Therapy - Nucleic Acids	x	2162-2531	http://www.nature.com/mtna/guide_for_authors.pdf	biology	medicine	molecular-therapy	numeric
 Nature Biotechnology	1087-0156	1546-1696	http://www.nature.com/nbt/pdf/gta.pdf	biology		nature	numeric
 Nature Cell Biology	1465-7392	1476-4679	http://www.nature.com/ncb/pdf/ncb_gta.pdf	biology	medicine	nature	numeric
 Nature Chemical Biology	1552-4450	1552-4469	http://www.nature.com/nchembio/pdf/nchembio_gta.pdf	biology	chemistry	nature	numeric
@@ -43,9 +41,9 @@ Mucosal Immunology	1933-0219	1935-3456	http://www.nature.com/mi/instructions_for
 NPG Asia Materials	1884-4049	1884-4057	http://mts-am.nature.com/cgi-bin/main.plex?form_type=display_auth_instructions#format	chemistry	physics	nature-no-et-al	numeric
 Polymer Journal		1349-0540	http://mts-pj.nature.com/cgi-bin/main.plex?form_type=display_auth_instructions#format	chemistry	physics	nature-no-et-al	numeric
 American Journal of Gastroenterology Supplements	1948-9498	1948-9501	http://www.nature.com/ajgsup/gta.pdf	biology	medicine	the-american-journal-of-gastroenterology	numeric
-Clinical and Translational Gastroenterology		2155-384X	http://www.nature.com/ctg/ctg_gta.pdf	biology	medicine	kidney-international	numeric
-International Journal of Oral Science	1674-2818	2049-3169	http://mts-ijos.nature.com/cgi-bin/main.plex?form_type=display_auth_instructions#format	biology	medicine	kidney-international	numeric
-Kidney International Supplements	2157-1724	2157-1716	http://www.nature.com/kisup	biology	medicine	kidney-international	numeric
+Clinical and Translational Gastroenterology		2155-384X	http://www.nature.com/ctg/ctg_gta.pdf	biology	medicine	american-medical-association	numeric
+International Journal of Oral Science	1674-2818	2049-3169	http://mts-ijos.nature.com/cgi-bin/main.plex?form_type=display_auth_instructions#format	biology	medicine	american-medical-association	numeric
+Kidney International Supplements	2157-1724	2157-1716	http://www.nature.com/kisup	biology	medicine	american-medical-association	numeric
 British Dental Journal	0007-0610	1476-5373	http://www.nature.com/bdj/authors/guidelines/guidelines.pdf	biology	medicine	european-journal-of-human-genetics	numeric
 Emerging Microbes & Infections		2222-1751	http://mts-emi.nature.com/cgi-bin/main.plex?form_type=display_auth_instructions#format	biology	medicine	european-journal-of-human-genetics	numeric
 Evidence-Based Dentistry	1462-0049	1476-5446	http://www.nature.com/ebd/for_authors.html	biology	medicine	european-journal-of-human-genetics	numeric
