@@ -6,7 +6,7 @@
     <title-short>#TITLESHORT#</title-short>
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
-    <link href="http://www.zotero.org/styles/the-optical-society" rel="independent-parent"/>
+    <link href="http://www.zotero.org/styles/#PARENT#" rel="independent-parent"/>
     <link href="https://www.osapublishing.org/about.cfm" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="physics"/>
