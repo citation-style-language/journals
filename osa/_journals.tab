@@ -1,11 +1,10 @@
-TITLE	TITLESHORT	ISSN	eISSN
-Advances in Optics and Photonics	AOP		1943-8206
-Applied Optics	AO	1559-128X	2155-3165
-Biomedical Optics Express	BOE		2156-7085
-Journal of the Optical Society of America A	JOSA A	1084-7529	1520-8532
-Journal of the Optical Society of America B JOSA B	0740-3224	1520-8540
-Optica	2334-2536
-Optical Materials Express	OME		2159-3930
-Optics and Photonics News	OPN	1047-6938	1541-3721
-Optics Express	OME 0146-9592	1539-4794
-OSA Continuum OSAC		2578-7519
+TITLE	TITLESHORT	PARENT  ISSN	eISSN
+Advances in Optics and Photonics	AOP the-optical-society		1943-8206
+Applied Optics	AO  the-optical-society	1559-128X	2155-3165
+Biomedical Optics Express	BOE	optics-express  2156-7085
+Journal of the Optical Society of America A	JOSA A  the-optical-society	1084-7529	1520-8532
+Journal of the Optical Society of America B JOSA B  the-optical-society	0740-3224	1520-8540
+Optica  the-optical-society	2334-2536
+Optical Materials Express	OME optics-express	2159-3930
+Optics and Photonics News	OPN the-optical-society	1047-6938	1541-3721
+OSA Continuum OSAC  the-optical-society		2578-7519
