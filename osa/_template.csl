@@ -7,7 +7,8 @@
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
     <link href="http://www.zotero.org/styles/#PARENT#" rel="independent-parent"/>
-    <link href="https://www.osapublishing.org/about.cfm" rel="documentation"/>
+    <link href="https://www.osapublishing.org/submit/templates/default.cfm" rel="documentation"/>
+    <link href="https://www.osapublishing.org/submit/style/oestyleguide.cfm" rel="documentation"/>
     <category citation-format="numeric"/>
     <category field="physics"/>
     <issn>#ISSN#</issn>
