@@ -1,41 +1,45 @@
-Title	ISSN	eISSN	Documentation	Field
-Aging Health	1745-509X	1745-5103	http://www.futuremedicine.com/loi/ahe	medicine
-Bioanalysis	1757-6180	1757-6199	http://www.future-science.com/loi/bio	biology
-Biofuels	1759-7269	1759-7277	http://www.future-science.com/loi/bfs	biology
-Biomarkers in Medicine	1752-0363	1752-0371	http://www.futuremedicine.com/loi/bmm	medicine
-Breast Cancer Management	1758-1923	1758-1931	http://www.futuremedicine.com/loi/bmt	medicine
-Carbon Management	1758-3004	1758-3012	http://www.future-science.com/loi/cmt	science
-Clinical Investigation	2041-6792	2041-6806	http://www.future-science.com/loi/cli	medicine
-Clinical Lipidology	1758-4299	1758-4302	http://www.futuremedicine.com/loi/clp	medicine
-Clinical Practice	2044-9038	2044-9046	http://www.futuremedicine.com/loi/cpr	medicine
-CNS Oncology	2045-0907	2045-0915	http://www.futuremedicine.com/loi/cns	medicine
-Colorectal Cancer	1758-194X	1758-1958	http://www.futuremedicine.com/loi/crc	medicine
-Diabetes Management	1758-1907	1758-1915	http://www.futuremedicine.com/loi/dmt	medicine
-Epigenomics	1750-1911	1750-192X	http://www.futuremedicine.com/loi/epi	medicine
-Future Cardiology	1479-6678	1744-8298	http://www.futuremedicine.com/loi/fca	medicine
-Future Medicinal Chemistry	1756-8919	1756-8927	http://www.future-science.com/loi/fmc	medicine
-Future Microbiology	1746-0913	1746-0921	http://www.futuremedicine.com/loi/fmb	medicine
-Future Neurology	1479-6708	1748-6971	http://www.futuremedicine.com/loi/fnl	medicine
-Future Oncology	1479-6694	1744-8301	http://www.futuremedicine.com/loi/fon	medicine
-Future Virology	1746-0794	1746-0808	http://www.futuremedicine.com/loi/fvl	medicine
-Hepatic Oncology	2045-0923	2045-0931	http://www.futuremedicine.com/loi/hep	medicine
-Imaging in Medicine	1755-5191	1755-5205	http://www.futuremedicine.com/loi/iim	medicine
-Immunotherapy	1750-743X	1750-7448	http://www.futuremedicine.com/loi/imt	medicine
-International Journal of Clinical Rheumatology	1758-4272	1758-4280	http://www.futuremedicine.com/loi/ijr	medicine
-International Journal of Endocrine Oncology	2045-0869	x	http://www.futuremedicine.com/loi/ije	medicine
-International Journal of Hematologic Oncology	2045-1393	2045-1407	http://www.futuremedicine.com/loi/ijh	medicine
-Interventional Cardiology	1755-5302	1755-5310	http://www.futuremedicine.com/loi/ica	medicine
-Journal of Comparative Effectiveness Research	2042-6305	2042-6313	http://www.futuremedicine.com/loi/cer	medicine
-Lung Cancer Management	1758-1966	1758-1974	http://www.futuremedicine.com/loi/lmt	medicine
-Melanoma Management	2045-0885	x	http://www.futuremedicine.com	medicine
-Nanomedicine	1743-5889	1748-6963	http://www.futuremedicine.com/loi/nnm	medicine
-Neurodegenerative Disease Management	1758-2024	1758-2032	http://www.futuremedicine.com/loi/nmt	medicine
-Neuropsychiatry	1758-2008	1758-2016	http://www.futuremedicine.com/loi/npy	medicine
-Pain Management	1758-1869	1758-1877	http://www.futuremedicine.com/loi/pmt	medicine
-Personalized Medicine	1741-0541	1744-828X	http://www.futuremedicine.com/loi/pme	medicine
-Pharmaceutical Bioprocessing	2048-9145	2048-9153	http://www.future-science.com/loi/pbp	medicine
-Pharmaceutical Patent Analyst	2046-8954	2046-8962	http://www.future-science.com/loi/ppa	medicine
-Pharmacogenomics	1462-2416	1744-8042	http://www.futuremedicine.com/loi/pgs	medicine
-Regenerative Medicine	1746-0751	1746-076X	http://www.futuremedicine.com/loi/rme	medicine
-Therapeutic Delivery	2041-5990	2041-6008	http://www.future-science.com/loi/tde	medicine
-Women's Health	1745-5057	1745-5056	http://www.futuremedicine.com/loi/whe	medicine
+Title	ISSN	eISSN	Documentation	Field	Parent
+Aging Health	1745-509X	1745-5103	http://www.futuremedicine.com/loi/ahe	medicine	future-science-group
+Bioanalysis	1757-6180	1757-6199	http://www.future-science.com/loi/bio	biology	future-science-group
+Bioelectronics in Medicine	2059-1500	2059-1519	https://www.futuremedicine.com/journal/bem	medicine	future-medicine
+Biofuels	1759-7269	1759-7277	http://www.future-science.com/loi/bfs	biology	future-science-group
+Biomarkers in Medicine	1752-0363	1752-0371	http://www.futuremedicine.com/loi/bmm	medicine	future-medicine
+Breast Cancer Management	1758-1923	1758-1931	http://www.futuremedicine.com/loi/bmt	medicine	future-medicine
+Carbon Management	1758-3004	1758-3012	http://www.future-science.com/loi/cmt	science	future-science-group
+Clinical Investigation	2041-6792	2041-6806	http://www.future-science.com/loi/cli	medicine	future-science-group
+Clinical Lipidology	1758-4299	1758-4302	http://www.futuremedicine.com/loi/clp	medicine	future-science-group
+Clinical Practice	2044-9038	2044-9046	http://www.futuremedicine.com/loi/cpr	medicine	future-science-group
+CNS Oncology	2045-0907	2045-0915	http://www.futuremedicine.com/loi/cns	medicine	future-medicine
+Colorectal Cancer	1758-194X	1758-1958	http://www.futuremedicine.com/loi/crc	medicine	future-medicine
+Concussion	x	2056-3299	https://www.futuremedicine.com/journal/cnc	medicine	future-medicine
+Diabetes Management	1758-1907	1758-1915	http://www.futuremedicine.com/loi/dmt	medicine	future-science-group
+Epigenomics	1750-1911	1750-192X	http://www.futuremedicine.com/loi/epi	medicine	future-medicine
+Future Cardiology	1479-6678	1744-8298	http://www.futuremedicine.com/loi/fca	medicine	future-medicine
+Future Medicinal Chemistry	1756-8919	1756-8927	http://www.future-science.com/loi/fmc	medicine	future-science-group
+Future Microbiology	1746-0913	1746-0921	http://www.futuremedicine.com/loi/fmb	medicine	future-medicine
+Future Neurology	1479-6708	1748-6971	http://www.futuremedicine.com/loi/fnl	medicine	future-medicine
+Future Oncology	1479-6694	1744-8301	http://www.futuremedicine.com/loi/fon	medicine	future-medicine
+Future Rare Diseases	x	2399-5262	https://www.futuremedicine.com/journal/frd	medicine	future-medicine
+Future Virology	1746-0794	1746-0808	http://www.futuremedicine.com/loi/fvl	medicine	future-medicine
+Hepatic Oncology	2045-0923	2045-0931	https://www.futuremedicine.com/journal/hep	medicine	future-medicine
+Imaging in Medicine	1755-5191	1755-5205	http://www.futuremedicine.com/loi/iim	medicine	future-science-group
+Immunotherapy	1750-743X	1750-7448	http://www.futuremedicine.com/loi/imt	medicine	future-medicine
+International Journal of Clinical Rheumatology	1758-4272	1758-4280	http://www.futuremedicine.com/loi/ijr	medicine	future-science-group
+International Journal of Endocrine Oncology	2045-0869	x	http://www.futuremedicine.com/loi/ije	medicine	future-medicine
+International Journal of Hematologic Oncology	2045-1393	2045-1407	http://www.futuremedicine.com/loi/ijh	medicine	future-medicine
+Interventional Cardiology	1755-5302	1755-5310	http://www.futuremedicine.com/loi/ica	medicine	future-science-group
+Journal of 3D Printing in Medicine	2059-4755	2059-4763	https://www.futuremedicine.com/journal/3dp	medicine	future-medicine
+Journal of Comparative Effectiveness Research	2042-6305	2042-6313	http://www.futuremedicine.com/loi/cer	medicine	future-medicine
+Lung Cancer Management	1758-1966	1758-1974	http://www.futuremedicine.com/loi/lmt	medicine	future-medicine
+Melanoma Management	2045-0885	x	http://www.futuremedicine.com	medicine	future-medicine
+Nanomedicine	1743-5889	1748-6963	http://www.futuremedicine.com/loi/nnm	medicine	future-medicine
+Neurodegenerative Disease Management	1758-2024	1758-2032	http://www.futuremedicine.com/loi/nmt	medicine	future-medicine
+Neuropsychiatry	1758-2008	1758-2016	http://www.futuremedicine.com/loi/npy	medicine	future-science-group
+Pain Management	1758-1869	1758-1877	http://www.futuremedicine.com/loi/pmt	medicine	future-medicine
+Personalized Medicine	1741-0541	1744-828X	http://www.futuremedicine.com/loi/pme	medicine	future-medicine
+Pharmaceutical Bioprocessing	2048-9145	2048-9153	http://www.future-science.com/loi/pbp	medicine	future-science-group
+Pharmaceutical Patent Analyst	2046-8954	2046-8962	http://www.future-science.com/loi/ppa	medicine	future-science-group
+Pharmacogenomics	1462-2416	1744-8042	http://www.futuremedicine.com/loi/pgs	medicine	future-medicine
+Regenerative Medicine	1746-0751	1746-076X	http://www.futuremedicine.com/loi/rme	medicine	future-medicine
+Therapeutic Delivery	2041-5990	2041-6008	http://www.future-science.com/loi/tde	medicine	future-science-group
+Women's Health	1745-5057	1745-5056	http://www.futuremedicine.com/loi/whe	medicine	future-science-group
