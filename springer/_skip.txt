@@ -31,3 +31,6 @@ decision
 
 # name conflict with IOP style (will be added again with new name in extra)
 journal-of-optics
+
+# Moved from Springer in 2018
+new-zealand-journal-of-forestry-science
