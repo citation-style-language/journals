@@ -1,5 +1,8 @@
 # Require custom style: 
 
+# 2020-06: https://github.com/citation-style-language/styles/pull/4852
+cellular-and-molecular-gastroenterology-and-hepatology
+
 # 2018-12: https://github.com/citation-style-language/styles/pull/3636
 applied-clay-science
 
