@@ -100,7 +100,7 @@ Annales d'Endocrinologie	0003-4266	elsevier-vancouver	numeric
 Annals of Nuclear Energy	0306-4549	elsevier-harvard	author-date
 Animal Feed Science and Technology	0377-8401	elsevier-harvard	author-date
 Annales de l'Institut Henri Poincaré / Analyse non linéaire	0294-1449	elsevier-with-titles	numeric
-Animal Nutrition	2405-6545	vancouver-author-date	author-date
+Animal Nutrition	2405-6545	elsevier-vancouver-author-date	author-date
 Animal Reproduction Science	0378-4320	elsevier-harvard	author-date
 Auris Nasus Larynx	0385-8146	elsevier-vancouver	numeric
 Annales de Dermatologie et de Vénéréologie	0151-9638	elsevier-vancouver	numeric
@@ -347,7 +347,7 @@ Clinical Colorectal Cancer	1533-0028	american-medical-association	numeric
 Clinical Genitourinary Cancer	1558-7673	american-medical-association	numeric
 Clinical Neurology and Neurosurgery	0303-8467	elsevier-with-titles	numeric
 Clinical Mass Spectrometry	2376-9998	elsevier-with-titles	numeric
-Clinical Neurophysiology	1388-2457	vancouver-author-date	author-date
+Clinical Neurophysiology	1388-2457	elsevier-vancouver-author-date	author-date
 Clinics and Research in Hepatology and Gastroenterology	2210-7401	elsevier-vancouver	numeric
 Clinics and Research in Hepatology and Gastroenterology: X	2590-1443	elsevier-vancouver	numeric
 Climate Services	2405-8807	elsevier-harvard	author-date
@@ -356,7 +356,6 @@ Clinical Lung Cancer	1525-7304	american-medical-association	numeric
 Clinical Lymphoma, Myeloma and Leukemia	2152-2650	american-medical-association	numeric
 Clinical Nutrition ESPEN	2405-4577	elsevier-vancouver	numeric
 Cellular Signalling	0898-6568	elsevier-with-titles	numeric
-Computer Law & Security Review: The International Journal of Technology Law and Practice	0267-3649	vancouver-author-date	author-date
 Computer Methods in Applied Mechanics and Engineering	0045-7825	elsevier-with-titles	numeric
 Cell Metabolism	1550-4131	elsevier-harvard	author-date
 Clinical Microbiology and Infection	1198-743X	elsevier-vancouver	numeric
@@ -408,7 +407,7 @@ Current Opinion in Psychology	2352-250X	elsevier-with-titles	numeric
 Journal of Controlled Release	0168-3659	elsevier-with-titles	numeric
 Journal of Corporate Finance	0929-1199	elsevier-harvard	author-date
 Cortex	0010-9452	apa	author-date
-Computers & Security	0167-4048	vancouver-author-date	author-date
+Computers & Security	0167-4048	elsevier-vancouver-author-date	author-date
 Computer Science Review	1574-0137	elsevier-with-titles	numeric
 Current Opinion in Solid State & Materials Science	1359-0286	elsevier-with-titles	numeric
 Composite Structures	0263-8223	elsevier-vancouver	numeric
@@ -483,7 +482,7 @@ Diagnostic and Interventional Imaging	2211-5684	elsevier-vancouver	numeric
 Digital Investigation	1742-2876	elsevier-harvard	author-date
 Discrete Optimization	1572-5286	elsevier-with-titles	numeric
 Displays	0141-9382	elsevier-with-titles	numeric
-Diagnostic Microbiology & Infectious Disease	0732-8893	vancouver-author-date	author-date
+Diagnostic Microbiology & Infectious Disease	0732-8893	elsevier-vancouver-author-date	author-date
 Drug Metabolism and Pharmacokinetics	1347-4367	elsevier-vancouver	numeric
 International Journal of Developmental Neuroscience	0736-5748	elsevier-harvard	author-date
 DNA Repair	1568-7864	elsevier-with-titles	numeric
@@ -796,7 +795,7 @@ International Journal of Gerontology	1873-9598	american-medical-association	nume
 International Journal of Gastronomy and Food Science	1878-450X	elsevier-harvard	author-date
 International Journal of Greenhouse Gas Control	1750-5836	elsevier-harvard	author-date
 International Journal of Hygiene and Environmental Health	1438-4639	elsevier-harvard	author-date
-International Journal of Infectious Diseases	1201-9712	vancouver-author-date	author-date
+International Journal of Infectious Diseases	1201-9712	elsevier-vancouver-author-date	author-date
 International Journal of Intercultural Relations	0147-1767	apa	author-date
 International Journal of Innovation Studies	2096-2487	apa	author-date
 International Journal of Law, Crime and Justice	1756-0616	elsevier-harvard	author-date
@@ -826,7 +825,7 @@ International Journal of Surgery	1743-9191	elsevier-with-titles	numeric
 Indian Journal of Tuberculosis	0019-5707	american-medical-association	numeric
 International Journal of Transportation Science and Technology	2046-0430	elsevier-harvard	author-date
 International Journal of Veterinary Science and Medicine	2314-4599	elsevier-vancouver	numeric
-International Journal of Women's Dermatology	2352-6475	vancouver-author-date	author-date
+International Journal of Women's Dermatology	2352-6475	elsevier-vancouver-author-date	author-date
 Signal Processing: Image Communication	0923-5965	elsevier-with-titles	numeric
 Image and Vision Computing	0262-8856	elsevier-with-titles	numeric
 Immunobiology	0171-2985	elsevier-harvard	author-date
@@ -1034,7 +1033,7 @@ Journal of Hospitality and Tourism Management	1447-6770	apa	author-date
 Journal of Inorganic Biochemistry	0162-0134	elsevier-with-titles	numeric
 Journal of Infection and Chemotherapy	1341-321X	elsevier-vancouver	numeric
 Journal of Indian College of Cardiology	1561-8811	american-medical-association	numeric
-Journal of Investigative Dermatology	0022-202X	vancouver-author-date	author-date
+Journal of Investigative Dermatology	0022-202X	elsevier-vancouver-author-date	author-date
 Journal d'imagerie diagnostique et interventionnelle	2543-3431	elsevier-vancouver	numeric
 Journal of Industrial Information Integration	2452-414X	elsevier-with-titles	numeric
 International Journal of Educational Research	0883-0355	apa	author-date
@@ -1047,7 +1046,7 @@ Journal of International Money and Finance	0261-5606	elsevier-harvard	author-dat
 Injury	0020-1383	elsevier-vancouver	numeric
 Journal of Infection and Public Health	1876-0341	elsevier-vancouver	numeric
 Journal of Information Security and Applications	2214-2126	elsevier-vancouver	numeric
-Journal of Investigative Dermatology Symposium Proceedings	1087-0024	vancouver-author-date	author-date
+Journal of Investigative Dermatology Symposium Proceedings	1087-0024	elsevier-vancouver-author-date	author-date
 Medical Engineering and Physics	1350-4533	elsevier-vancouver	numeric
 Journal of Cardiology	0914-5087	elsevier-vancouver	numeric
 Journal of Electromyography and Kinesiology	1050-6411	elsevier-harvard	author-date
@@ -1162,7 +1161,7 @@ Journal of Quantitative Spectroscopy and Radiative Transfer	0022-4073	elsevier-v
 Journal of Rare Earths	1002-0721	american-medical-association	numeric
 Journal of Reproductive Immunology	0165-0378	elsevier-harvard	author-date
 Radiology of Infectious Diseases	2352-6211	elsevier-vancouver	numeric
-Journal of Rock Mechanics and Geotechnical Engineering	1674-7755	vancouver-author-date	author-date
+Journal of Rock Mechanics and Geotechnical Engineering	1674-7755	elsevier-vancouver-author-date	author-date
 Resources Policy	0301-4207	elsevier-harvard	author-date
 Journal of Radiation Research and Applied Sciences	1687-8507	apa	author-date
 Journal of Rail Transport Planning & Management	2210-9706	elsevier-harvard	author-date
@@ -1174,7 +1173,6 @@ Journal of the Saudi Heart Association	1016-7315	elsevier-vancouver	numeric
 Journal of Sustainable Mining	2300-3960	apa	author-date
 Journal of School Psychology	0022-4405	apa	author-date
 Space Policy	0265-9646	elsevier-with-titles	numeric
-Spine Deformity	2212-134X	vancouver-author-date	author-date
 Journal of Statistical Planning and Inference	0378-3758	elsevier-harvard	author-date
 Journal of Safety Research	0022-4375	apa	author-date
 The Journal of Systems & Software	0164-1212	elsevier-harvard	author-date
@@ -1602,7 +1600,7 @@ Radiotherapy and Oncology	0167-8140	elsevier-vancouver	numeric
 Rangeland Ecology & Management	1550-7424	elsevier-harvard	author-date
 Research in Autism Spectrum Disorders	1750-9467	apa	author-date
 RAUSP Management Journal	2531-0488	apa	author-date
-Revista Brasileira de Ciências do Esporte	0101-3289	vancouver-author-date	author-date
+Revista Brasileira de Ciências do Esporte	0101-3289	elsevier-vancouver-author-date	author-date
 Revista Brasileira de Entomologia	0085-5626	elsevier-harvard	author-date
 Reproductive BioMedicine Online	1472-6483	elsevier-harvard	author-date
 Reproductive Biomedicine & Society Online	2405-6618	elsevier-harvard	author-date
@@ -1720,7 +1718,7 @@ Socio-Economic Planning Sciences	0038-0121	elsevier-vancouver	numeric
 Sustainable Environment Research	2468-2039	elsevier-vancouver	numeric
 Solid Earth Sciences	2451-912X	elsevier-harvard	author-date
 Sustainable Energy Technologies and Assessments	2213-1388	elsevier-vancouver	numeric
-Sexologies	1158-1360	vancouver-author-date	author-date
+Sexologies	1158-1360	elsevier-vancouver-author-date	author-date
 Seminars in Fetal and Neonatal Medicine	1744-165X	elsevier-vancouver	numeric
 Journal of Structural Geology	0191-8141	elsevier-harvard	author-date
 Soins Gérontologie	1268-6034	elsevier-vancouver	numeric
@@ -1764,7 +1762,7 @@ Solid State Electronics Letters	2589-2088	elsevier-with-titles	numeric
 Social Science & Medicine	0277-9536	elsevier-harvard	author-date
 SSM - Population Health	2352-8273	apa	author-date
 Solid State Sciences	1293-2558	elsevier-with-titles	numeric
-Spatial and Spatio-temporal Epidemiology	1877-5845	vancouver-author-date	author-date
+Spatial and Spatio-temporal Epidemiology	1877-5845	elsevier-vancouver-author-date	author-date
 Statistics and Probability Letters	0167-7152	elsevier-harvard	author-date
 Steroids	0039-128X	elsevier-with-titles	numeric
 Cell Stem Cell	1934-5909	elsevier-harvard	author-date
