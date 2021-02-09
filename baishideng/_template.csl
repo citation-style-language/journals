@@ -5,10 +5,9 @@
     <title>#TITLE#</title>
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
-    <link href="http://www.zotero.org/styles/bashideng-publishing-group" rel="independent-parent"/>
+    <link href="http://www.zotero.org/styles/baishideng-publishing-group" rel="independent-parent"/>
     <category citation-format="numeric"/>
     <category field="#FIELD#"/>
-    <category field="#FIELD2#"/>
     <issn>#ISSN#</issn>
     <eissn>#EISSN#</eissn>
     <updated>2021-02-03T12:00:00+00:00</updated>
