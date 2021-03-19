@@ -7,7 +7,7 @@
     <id>http://www.zotero.org/styles/#IDENTIFIER#</id>
     <link href="http://www.zotero.org/styles/#IDENTIFIER#" rel="self"/>
     <link href="http://www.zotero.org/styles/#PARENT#" rel="independent-parent"/>
-    <category citation-format="#FORMAT"/>
+    <category citation-format="#FORMAT#"/>
     <category field="#FIELD#"/>
     <issn>#ISSN#</issn>
     <eissn>#EISSN#</eissn>
