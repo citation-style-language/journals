@@ -90,3 +90,6 @@ molecular-plant
 
 #avoid title clash with MDPI journal Healthcare (Elsevier journal added with subtitle in _extra.tab)
 healthcare
+
+# Moved to AOSIS
+health-sa-gesondheid

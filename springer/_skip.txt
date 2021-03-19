@@ -37,3 +37,6 @@ journal-of-optics
 
 # Moved from Springer in 2018
 new-zealand-journal-of-forestry-science
+
+# Moved to AOSIS
+reading-and-writing
