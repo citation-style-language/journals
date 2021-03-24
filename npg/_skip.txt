@@ -12,5 +12,6 @@ Nature
 SciBX: Science-Business Exchange
 Scientific American
 Scientific American Mind
+Clinical & Translational Immunology
 # Discontinued
 Vital
