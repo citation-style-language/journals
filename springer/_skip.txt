@@ -40,3 +40,6 @@ new-zealand-journal-of-forestry-science
 
 # Moved to AOSIS
 reading-and-writing
+
+# Changed style
+estuaries-and-coasts
