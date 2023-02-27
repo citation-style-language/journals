@@ -1,4 +1,8 @@
 # Require custom style:
+
+# 2022-04: https://github.com/citation-style-language/styles/pull/6041
+annals-of-allergy-asthma-and-immunology
+
 # 2020-10 Moved to Springer
 spine-deformity
 
