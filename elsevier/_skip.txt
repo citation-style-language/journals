@@ -1,5 +1,8 @@
 # Require custom style:
 
+# 2023-04: https://github.com/citation-style-language/styles/pull/6491
+digestive-and-liver-disease
+
 # 2022-04: https://github.com/citation-style-language/styles/pull/6041
 annals-of-allergy-asthma-and-immunology
 
