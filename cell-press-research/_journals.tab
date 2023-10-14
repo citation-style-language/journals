@@ -1,33 +1,36 @@
 Title	ISSN	EISSN	Parent	Format	Field	Field2	Documentation	
 Cancer Cell	1535-6108	1878-3686	cell	numeric	biology	medicine	http://www.cell.com/cancer-cell/authors	
 Cell Chemical Biology	x	2451-9456	cell	numeric	biology	medicine	http://www.cell.com/cell-chemical-biology/authors	
-Cell Genomics	x	2666-979X 	cell	numeric	genomics	biology	https://www.cell.com/cell-genomics/authors	
+Cell Genomics	x	2666-979X 	cell	numeric	x	biology	https://www.cell.com/cell-genomics/authors	
 Cell Host & Microbe	1931-3128	1934-6069	cell	numeric	biology	medicine	http://www.cell.com/cell-host-microbe/authors	
 Cell Metabolism	1550-4131	1932-7420	cell	numeric	biology	medicine	http://www.cell.com/cell-metabolism/authors	
 Cell Reports	2211-1247	x	cell	numeric	biology	medicine	http://www.cell.com/cell-reports/authors	
 Cell Reports Medicine	x	2666-3791	cell	numeric	medicine	biology	https://www.cell.com/cell-reports-medicine/authors	
-Cell Reports Methods	x	2667-2375	cell	numeric	biolgogy	medicine	https://www.cell.com/cell-reports-methods/authors	
+Cell Reports Methods	x	2667-2375	cell	numeric	biology	medicine	https://www.cell.com/cell-reports-methods/authors	
 Cell Reports Physcial Science	x	2666-3864	cell	numeric	chemistry	physics	https://www.cell.com/cell-reports-physical-science/authors	
+Cell Reports Sustainability	x	x	cell	numeric	science	physics	https://www.cell.com/cell-reports-sustainability/authors	
 Cell Stem Cell	1934-5909	1875-9777	cell	numeric	biology	medicine	http://www.cell.com/cell-stem-cell/authors	
 Cell Systems	2405-4712	2405-4720	cell	numeric	biology	medicine	http://www.cell.com/cell-systems/authors	
 Chem	x	2451-9294	cell	numeric	chemistry	x	http://www.cell.com/chem/authors	
 Chem Catalysis	x	2667-1093	cell	numeric	chemistry	x	http://www.cell.com/chem-catalysis/authors	
 Current Biology	0960-9822	1879-0445	cell	numeric	biology	medicine	http://www.cell.com/current-biology/authors	
 Developmental Cell	1534-5807	1878-1551	cell	numeric	biology	medicine	http://www.cell.com/developmental-cell/authors	
+Device	x	2666-9986	cell	numeric	engineering	medicine	http://www.cell.com/device/authors	
 HGG Advances	x	2666-2477	cell	numeric	genetics	biology	https://www.cell.com/hgg-advances/authors	
 Immunity	1074-7613	1097-4180	cell	numeric	biology	medicine	http://www.cell.com/immunity/authors	
 iScience	x	2589-0042	cell	numeric	science	x	https://www.cell.com/iscience/authors	
 Joule	x	2542-4351	cell	numeric	engineering	chemistry	http://www.cell.com/joule/authors	
 Med	x	2666-6340	cell	numeric	medicine	x	https://www.cell.com/med/authors	
-Matter	x	2590-2385	cell	numeric	materials science	x	https://www.cell.com/matter/authors	
+Matter	x	2590-2385	cell	numeric	engineering	x	https://www.cell.com/matter/authors	
 Molecular Cell	1097-2765	1097-4164	cell	numeric	biology	medicine	http://www.cell.com/molecular-cell/authors	
 Molecular Therapy	1525-0016	1525-0024	cell	numeric	science	biology	https://www.cell.com/molecular-therapy-family/molecular-therapy/authors	
 Molecular Therapy - Methods & Clinical Development	2329-0501	x	cell	numeric	science	biology	https://www.cell.com/molecular-therapy-family/methods/authors	
 Molecular Therapy - Nucleic Acids	2162-2531	x	cell	numeric	science	biology	https://www.cell.com/molecular-therapy-family/nucleic-acids/authors	
 Molecular Therapy - Oncolytics	2372-7705	x	cell	numeric	science	biology	https://www.cell.com/molecular-therapy-family/oncolytics/authors	
 Neuron	0896-6273	1097-4199	cell	numeric	biology	medicine	http://www.cell.com/neuron/authors	
-One Earth	x	2590-3322	cell	numeric	sustainability science	x	https://www.cell.com/one-earth/author	
-Patterns	x	2666-3899	cell	numeric	data science	x	https://www.cell.com/patterns/authors	
+Nexus	x	x	cell	numeric	engineering	science	http://www.cell.com/nexus/authors	
+One Earth	x	2590-3322	cell	numeric	science	x	https://www.cell.com/one-earth/author	
+Patterns	x	2666-3899	cell	numeric	science	x	https://www.cell.com/patterns/authors	
 Star Protocols	x	2666-1667	cell	numeric	science	x	https://www.cell.com/star-protocols/authors	
 Structure	0969-2126	1878-4186	cell	numeric	biology	medicine	http://www.cell.com/structure/authors	
-The American Journal of Human Genetics	0002-9297	1537-6605	cell	numeric	genetics	biology	https://www.cell.com/ajhg/authors
+The American Journal of Human Genetics	0002-9297	1537-6605	cell	numeric	x	biology	https://www.cell.com/ajhg/authors
