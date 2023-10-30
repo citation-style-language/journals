@@ -15,7 +15,7 @@
     <category field="humanities"/>
     <issn>1868-7245</issn>
     <eissn>2196-4467</eissn>
-    <updated>2023-10-30T14:43:57+00:00</updated>
+    <updated>2023-10-30T16:02:40+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -36,44 +36,6 @@
       <term name="circa" form="short">ca.</term>
       <term name="bc"> B.C.E.</term>
       <term name="ad"> C.E.</term>
-    </terms>
-  </locale>
-  <locale xml:lang="es">
-    <terms>
-      <term name="from">de</term>
-    </terms>
-  </locale>
-  <locale xml:lang="de">
-    <terms>
-      <term name="et-al">et al.</term>
-    </terms>
-  </locale>
-  <locale xml:lang="da">
-    <terms>
-      <term name="et-al">et al.</term>
-    </terms>
-  </locale>
-  <locale xml:lang="nn">
-    <terms>
-      <term name="et-al">et al.</term>
-    </terms>
-  </locale>
-  <locale xml:lang="nl">
-    <terms>
-      <term name="et-al">et al.</term>
-    </terms>
-  </locale>
-  <locale xml:lang="nb">
-    <terms>
-      <term name="et-al">et al.</term>
-    </terms>
-  </locale>
-  <locale xml:lang="fr">
-    <terms>
-      <term name="editor" form="short">
-        <single>éd.</single>
-        <multiple>éds.</multiple>
-      </term>
     </terms>
   </locale>
   <macro name="container-contributors-booklike">
@@ -240,12 +202,12 @@
     <choose>
       <if type="song">
         <names variable="composer" delimiter=", ">
-          <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
+          <name name-as-sort-order="all" sort-separator=", " initialize-with=". " delimiter="/" delimiter-precedes-last="always"/>
           <substitute>
             <names variable="original-author"/>
             <names variable="author"/>
             <names variable="translator">
-              <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
+              <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with=". " delimiter="/" delimiter-precedes-last="always"/>
               <label form="short" prefix=" (" suffix=")" text-case="title"/>
             </names>
             <group delimiter=" ">
@@ -259,12 +221,12 @@
       <else-if type="treaty"/>
       <else>
         <names variable="author" delimiter=", ">
-          <name and="symbol" delimiter-precedes-last="always" name-as-sort-order="all"/>
+          <name delimiter-precedes-last="always" name-as-sort-order="all"/>
           <substitute>
             <names variable="illustrator"/>
             <names variable="composer"/>
             <names variable="director">
-              <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
+              <name name-as-sort-order="all" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
               <label form="long" prefix=" (" suffix=")" text-case="title"/>
             </names>
             <choose>
@@ -323,7 +285,7 @@
           <if variable="archive DOI publisher URL" match="none">
             <group delimiter=", ">
               <names variable="author">
-                <name and="symbol" delimiter=", " initialize-with=". "/>
+                <name delimiter="/"/>
                 <substitute>
                   <text variable="title" form="short" text-case="title" quotes="true"/>
                 </substitute>
@@ -333,7 +295,7 @@
           </if>
           <else>
             <names variable="author" delimiter=", ">
-              <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
+              <name form="short" delimiter="/"/>
               <substitute>
                 <names variable="editor"/>
                 <names variable="translator"/>
@@ -353,7 +315,7 @@
       </else-if>
       <else-if type="song">
         <names variable="composer" delimiter=", ">
-          <name form="short" and="symbol" delimiter=", " initialize-with=". "/>
+          <name form="short" delimiter="/"/>
           <substitute>
             <names variable="original-author"/>
             <names variable="author"/>
@@ -372,7 +334,7 @@
       </else-if>
       <else>
         <names variable="author" delimiter=", ">
-          <name form="short" delimiter="/" initialize-with=". "/>
+          <name form="short" delimiter="/"/>
           <substitute>
             <names variable="illustrator"/>
             <names variable="composer"/>
@@ -1462,7 +1424,7 @@
       </else-if>
     </choose>
   </macro>
-  <citation et-al-min="6" et-al-use-first="1" et-al-subsequent-min="3" et-al-subsequent-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name">
+  <citation et-al-min="4" et-al-use-first="1" et-al-subsequent-min="3" et-al-subsequent-use-first="1" disambiguate-add-names="true" disambiguate-add-givenname="true" disambiguate-add-year-suffix="true" givenname-disambiguation-rule="primary-name" collapse="year">
     <sort>
       <key macro="author" names-min="8" names-use-first="6"/>
       <key macro="issued-sort"/>
